@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"2edca4a9bf17d528","x":-51,"y":110,"width":250,"height":60,"type":"text","text":""},
+		{"id":"a68c1978a66e729c","x":289,"y":-244,"width":400,"height":400,"type":"file","file":"Techiques for dotfile Mangement.md"}
+	],
+	"edges":[
+		{"id":"efd3553776e63dc5","fromNode":"2edca4a9bf17d528","fromSide":"right","toNode":"a68c1978a66e729c","toSide":"left","color":"3"}
+	]
+}

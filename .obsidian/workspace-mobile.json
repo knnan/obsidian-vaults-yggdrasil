@@ -1,0 +1,134 @@
+{
+  "main": {
+    "id": "507fec5cb1e22a23",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e74f37066e3e55b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36a08ead9c7ddb72",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Screenshot from 2022-11-18 03-09-50.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce5310446b6ec957",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c7adae45b5e1edbd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f8f1e38cb1f66d62",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0ba5b555b40bb30a",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "9aaae98642d8dc34",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "f298636be2af871b",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f3e6e7b7188fd139",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Screenshot from 2022-11-18 03-09-50.png",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "0f01c08138d7025f",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Screenshot from 2022-11-18 03-09-50.png",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4dbbac14e202e132",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Screenshot from 2022-11-18 03-09-50.png"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "active": "36a08ead9c7ddb72",
+  "lastOpenFiles": [
+    "network-shaping-internal-architecture.jpg",
+    "network-internal.png",
+    "12-28-22.md",
+    "163f953f-1078-4ae8-a9c7-f85b88ad8f9a.wav",
+    "a747df7e-0734-43e6-a027-91b53e795ebf.wav",
+    "helo.md",
+    "helloParent.md",
+    "golang resources.md",
+    "git bare reposotires.md"
+  ]
+}

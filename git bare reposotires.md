@@ -1,0 +1,1 @@
+Git bare reporsitories differ from the usual repositories in that their work tree is not contained in a folder.
