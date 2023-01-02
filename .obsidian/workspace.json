@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "helloParent.md",
+                "file": "Markdown tutorial + obsidian features.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -52,8 +52,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "helloParent.md",
-                "mode": "preview",
+                "file": "Markdown tutorial + obsidian features.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d4aff8700b419924",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "new test for sync..md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               }
@@ -63,9 +76,15 @@
             "id": "c5af15bfeea1ebaa",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "network-internal.png"
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 319,
+                  "y": -37,
+                  "zoom": -0.40209844357134583,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -136,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network-internal.png",
+                "file": "new test for sync..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network-internal.png",
+                "file": "new test for sync..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network-internal.png"
+                "file": "new test for sync..md"
               }
             }
           },
@@ -207,17 +226,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5af15bfeea1ebaa",
+  "active": "d4aff8700b419924",
   "lastOpenFiles": [
+    "Markdown tutorial + obsidian features.md",
+    "helo.md",
+    "Network-traffic-shaping.md",
+    "Meta/Attachments/Images/network-internal.png",
+    "Untitled.canvas",
+    "Meta/Attachments/Images/Screenshot from 2022-11-18 03-09-50.png",
     "testing megasync.md",
     "git bare reposotires.md",
     "golang resources.md",
-    "12-28-22.md",
-    "d72ebdfb-1f0a-48d5-b30d-0eaeafc299d9.wav",
-    "Network-traffic-shaping.md",
-    "Untitled.canvas",
-    "network-shaping-internal-architecture.jpg",
-    "Techiques for dotfile Mangement.md",
-    "helloParent.md"
+    "12-28-22.md"
   ]
 }
