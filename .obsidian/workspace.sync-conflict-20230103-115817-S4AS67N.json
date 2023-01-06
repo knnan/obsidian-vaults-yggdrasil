@@ -63,25 +63,9 @@
             "id": "d4aff8700b419924",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 169.5,
-                  "y": -109,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
-            "id": "60fbaad3a9c5feba",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "ours  vs theirs.md",
+                "file": "new test for sync..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -105,7 +89,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -171,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ours  vs theirs.md",
+                "file": "new test for sync..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ours  vs theirs.md",
+                "file": "new test for sync..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ours  vs theirs.md"
+                "file": "new test for sync..md"
               }
             }
           },
@@ -242,17 +226,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60fbaad3a9c5feba",
+  "active": "d4aff8700b419924",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "new test for sync..md",
     "Markdown tutorial + obsidian features.md",
     "helo.md",
     "Network-traffic-shaping.md",
     "Meta/Attachments/Images/network-internal.png",
+    "Untitled.canvas",
     "Meta/Attachments/Images/Screenshot from 2022-11-18 03-09-50.png",
     "testing megasync.md",
     "git bare reposotires.md",
-    "golang resources.md"
+    "golang resources.md",
+    "12-28-22.md"
   ]
 }

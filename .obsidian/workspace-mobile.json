@@ -11,10 +11,8 @@
             "id": "36a08ead9c7ddb72",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Screenshot from 2022-11-18 03-09-50.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Screenshot from 2022-11-18 03-09-50.png",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Screenshot from 2022-11-18 03-09-50.png",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,9 +107,7 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Screenshot from 2022-11-18 03-09-50.png"
-          }
+          "state": {}
         }
       }
     ],
