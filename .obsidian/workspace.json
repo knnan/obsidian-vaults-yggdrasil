@@ -60,22 +60,6 @@
             }
           },
           {
-            "id": "d4aff8700b419924",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 169.5,
-                  "y": -109,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
-              }
-            }
-          },
-          {
             "id": "60fbaad3a9c5feba",
             "type": "leaf",
             "state": {
@@ -87,25 +71,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c5af15bfeea1ebaa",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 319,
-                  "y": -37,
-                  "zoom": -0.40209844357134583,
-                  "snapToGrid": false
-                }
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -171,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ours  vs theirs.md",
+                "file": "Markdown tutorial + obsidian features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -188,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ours  vs theirs.md",
+                "file": "Markdown tutorial + obsidian features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ours  vs theirs.md"
+                "file": "Markdown tutorial + obsidian features.md"
               }
             }
           },
@@ -242,9 +210,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60fbaad3a9c5feba",
+  "active": "fd53b34d46c0c177",
   "lastOpenFiles": [
     "Untitled.canvas",
+    "ours  vs theirs.md",
     "new test for sync..md",
     "Markdown tutorial + obsidian features.md",
     "helo.md",
@@ -252,7 +221,6 @@
     "Meta/Attachments/Images/network-internal.png",
     "Meta/Attachments/Images/Screenshot from 2022-11-18 03-09-50.png",
     "testing megasync.md",
-    "git bare reposotires.md",
-    "golang resources.md"
+    "git bare reposotires.md"
   ]
 }
