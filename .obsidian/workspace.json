@@ -52,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
+                "file": "golang resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
+                "file": "golang resources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
+                "file": "golang resources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md"
+                "file": "golang resources.md"
               }
             }
           },
@@ -212,10 +212,10 @@
   },
   "active": "fd53b34d46c0c177",
   "lastOpenFiles": [
+    "Markdown tutorial + obsidian features.md",
     "Untitled.canvas",
     "ours  vs theirs.md",
     "new test for sync..md",
-    "Markdown tutorial + obsidian features.md",
     "helo.md",
     "Network-traffic-shaping.md",
     "Meta/Attachments/Images/network-internal.png",
