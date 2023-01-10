@@ -47,19 +47,6 @@
             }
           },
           {
-            "id": "fd53b34d46c0c177",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golang resources.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60fbaad3a9c5feba",
             "type": "leaf",
             "state": {
@@ -71,9 +58,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ebb5ffb1f234705d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "golang basics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang resources.md",
+                "file": "golang basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang resources.md",
+                "file": "golang basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +179,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang resources.md"
+                "file": "golang basics.md"
               }
             }
           },
@@ -210,17 +210,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fd53b34d46c0c177",
+  "active": "ebb5ffb1f234705d",
   "lastOpenFiles": [
+    "Meta/Attachments/Images/network-shaping-internal-architecture.jpg",
+    "Meta/Attachments/Images/network-internal.png",
+    "golang resources.md",
     "Markdown tutorial + obsidian features.md",
     "Untitled.canvas",
     "ours  vs theirs.md",
     "new test for sync..md",
     "helo.md",
     "Network-traffic-shaping.md",
-    "Meta/Attachments/Images/network-internal.png",
-    "Meta/Attachments/Images/Screenshot from 2022-11-18 03-09-50.png",
-    "testing megasync.md",
-    "git bare reposotires.md"
+    "Meta/Attachments/Images/Screenshot from 2022-11-18 03-09-50.png"
   ]
 }
