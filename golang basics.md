@@ -1,1 +1,1 @@
-keywords are predefined words that cannot be used as identifies like case , break, switch
+keywords are predefined words that cannot be used as **Identifier** like case , break, switch

@@ -2,6 +2,6 @@
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "Meta/Attachments/Images",
+  "attachmentFolderPath": "Meta/Attachments/",
   "showUnsupportedFiles": true
 }

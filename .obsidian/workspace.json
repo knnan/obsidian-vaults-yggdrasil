@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git bare reposotires.md",
+                "file": "Markdown tutorial + obsidian features.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "3229a9c1ac522f0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Network-traffic-shaping.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
             "id": "60fbaad3a9c5feba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ours  vs theirs.md",
+                "file": "Markdown tutorial + obsidian features.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -71,9 +58,38 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "be1ead5156c70f43",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Meta/Attachments/network-internal.png"
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
+      },
+      {
+        "id": "862ae817fdef80bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f2460c73b34687c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Anime websites links.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "golang basics.md",
+                "file": "Markdown tutorial + obsidian features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "golang basics.md",
+                "file": "Markdown tutorial + obsidian features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "golang basics.md"
+                "file": "Markdown tutorial + obsidian features.md"
               }
             }
           },
@@ -201,26 +217,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "ebb5ffb1f234705d",
+  "active": "9d39e13fa832dfca",
   "lastOpenFiles": [
-    "Meta/Attachments/Images/network-shaping-internal-architecture.jpg",
-    "Meta/Attachments/Images/network-internal.png",
-    "golang resources.md",
+    "Anime websites links.md",
     "Markdown tutorial + obsidian features.md",
     "Untitled.canvas",
-    "ours  vs theirs.md",
-    "new test for sync..md",
-    "helo.md",
+    "golang basics.md",
+    "git bare reposotires.md",
     "Network-traffic-shaping.md",
-    "Meta/Attachments/Images/Screenshot from 2022-11-18 03-09-50.png"
+    "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
+    "Meta/Attachments/network-internal.png",
+    "helo.md",
+    "golang resources.md"
   ]
 }
