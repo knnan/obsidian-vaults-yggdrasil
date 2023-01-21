@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ours  vs theirs.md",
+                "file": "golang resources.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "ours  vs theirs.md",
+            "file": "golang resources.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "ours  vs theirs.md",
+            "file": "golang resources.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,7 +115,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "ours  vs theirs.md"
+            "file": "golang resources.md"
           }
         }
       }
@@ -124,6 +124,8 @@
   },
   "active": "36a08ead9c7ddb72",
   "lastOpenFiles": [
+    "ours  vs theirs.md",
+    "golang resources.md",
     "network-shaping-internal-architecture.jpg",
     "network-internal.png",
     "12-28-22.md",
@@ -131,7 +133,6 @@
     "a747df7e-0734-43e6-a027-91b53e795ebf.wav",
     "helo.md",
     "helloParent.md",
-    "golang resources.md",
     "git bare reposotires.md"
   ]
 }
