@@ -54,6 +54,14 @@
           "lastUpdated": 1674185465306
         }
       }
+    },
+    "variables": {
+      "variables": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1674293968751
+        }
+      }
     }
   }
 }

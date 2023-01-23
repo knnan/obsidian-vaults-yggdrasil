@@ -34,6 +34,19 @@
             }
           },
           {
+            "id": "276f335c697a6662",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pointers in c.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "60fbaad3a9c5feba",
             "type": "leaf",
             "state": {
@@ -70,26 +83,7 @@
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "862ae817fdef80bd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1f2460c73b34687c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Anime websites links.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -155,7 +149,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
+                "file": "pointers in c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +166,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
+                "file": "pointers in c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md"
+                "file": "pointers in c.md"
               }
             }
           },
@@ -228,10 +222,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9d39e13fa832dfca",
+  "active": "276f335c697a6662",
   "lastOpenFiles": [
-    "Anime websites links.md",
     "Markdown tutorial + obsidian features.md",
+    "Anime websites links.md",
     "Untitled.canvas",
     "golang basics.md",
     "git bare reposotires.md",
