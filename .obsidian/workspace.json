@@ -55,6 +55,19 @@
             }
           },
           {
+            "id": "2eeb7995a37e6c41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interview prep.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
             "id": "ebb5ffb1f234705d",
             "type": "leaf",
             "state": {
@@ -78,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
+                "file": "Interview prep.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
+                "file": "Interview prep.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md"
+                "file": "Interview prep.md"
               }
             }
           },
@@ -217,11 +230,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "60fbaad3a9c5feba",
+  "active": "2eeb7995a37e6c41",
   "lastOpenFiles": [
+    "Markdown tutorial + obsidian features.md",
     "pointers in c.md",
     "CODING PREP.md",
-    "Markdown tutorial + obsidian features.md",
     "Anime websites links.md",
     "Untitled.canvas",
     "golang basics.md",
