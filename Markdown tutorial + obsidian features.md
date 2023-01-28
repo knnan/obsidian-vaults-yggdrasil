@@ -29,8 +29,8 @@ const name="knnan"
 
 
 
-- [x] what i want to do now
-- afsd this a things 
+- [x] what i want to do now.
+-  [[Markdown tutorial + obsidian features#use `***` for horizontal line]] afsd this a things 
 - i dont want to do 
 ### this is not alrightfsd
 **okay now what do i do**
