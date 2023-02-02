@@ -1,5 +1,10 @@
 [[helo]]
 kfdas
+
+*
+Headings 
+***
+
 # h1
 ## h2
 ### h3
@@ -28,10 +33,15 @@ const name="knnan"
 ```
 
 
-
+- [ ] fasd
+	1. hello 
+	2. this is fine
+	3. but i dont want to do this aains myself
+	4. 
 - [x] what i want to do now.
 -  [[Markdown tutorial + obsidian features#use `***` for horizontal line]] afsd this a things 
 - i dont want to do 
+- 
 ### this is not alrightfsd
 **okay now what do i do**
 

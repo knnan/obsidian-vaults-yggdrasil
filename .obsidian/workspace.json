@@ -24,13 +24,8 @@
             "id": "9d39e13fa832dfca",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown tutorial + obsidian features.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           },
           {
@@ -47,8 +42,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
-                "mode": "source",
+                "file": "pointers in c.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -73,7 +68,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "c pointers and strings and arrays.md",
+                "file": "Markdown tutorial + obsidian features.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -104,7 +99,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +149,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -170,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "c pointers and strings and arrays.md",
+                "file": "pointers in c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "c pointers and strings and arrays.md",
+                "file": "pointers in c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "c pointers and strings and arrays.md"
+                "file": "pointers in c.md"
               }
             }
           },
@@ -223,12 +219,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,17 +238,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "eaf620e5a7b46b3d",
+  "active": "60fbaad3a9c5feba",
   "lastOpenFiles": [
-    "golang basics.md",
-    "c pointers and strings and arrays.md",
     "Markdown tutorial + obsidian features.md",
-    "Interview prep.md",
+    "Meta/Attachments/network-internal.png",
+    "helo.md",
+    "golang resources.md",
+    "golang basics.md",
     "git bare reposotires.md",
     "Anime websites links.md",
     "pointers in c.md",
-    "CODING PREP.md",
-    "Untitled.canvas",
-    "Network-traffic-shaping.md"
+    "Interview prep.md",
+    "pointers in c.md"
   ]
 }

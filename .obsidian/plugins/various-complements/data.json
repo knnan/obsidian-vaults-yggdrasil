@@ -62,6 +62,54 @@
           "lastUpdated": 1674293968751
         }
       }
+    },
+    "hello": {
+      "hello": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675333935263
+        }
+      }
+    },
+    "0x0001": {
+      "0x0001": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675335318883
+        }
+      }
+    },
+    "variable": {
+      "variable": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675335547703
+        }
+      }
+    },
+    "address_of_a": {
+      "address_of_a": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675335331043
+        }
+      }
+    },
+    "value": {
+      "value": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675335539089
+        }
+      }
+    },
+    "ptr_to_int": {
+      "ptr_to_int": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675335578564
+        }
+      }
     }
   }
 }
