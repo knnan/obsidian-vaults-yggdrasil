@@ -5,17 +5,18 @@
 
 variable address |variable name| value 
 -----------------|---------|----------
-0x001|a|1
-	0x005|b|3
+0x0001|a|1
+0x0005|b|3
 
 
 
 
 
-ex:
+Ex:
 ```c
 int a = 1; // declare a variable and initialize it
-int *pointer_to_int  = &a; // decalare  a pointer to a and store the address of a in the pointer 
+int *pointer_to_int  = &a; // declare  a pointer to a and store the address of a in the pointer 
+
 
 ```
 
