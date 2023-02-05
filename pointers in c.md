@@ -20,7 +20,6 @@ To get the value of the variable pointed to by a pointer we can use the
 star `*` operator .
 value at the address(pointer) : `*(pointer)`
 
-Ex:
 ```c
 // declare a variable and initialize it
 int a = 123;
@@ -31,6 +30,7 @@ int b = *ptr_to_int ; // b is set to the value of a now i.e 123
 printf("a : %d",a); // prints 123
 printf("ptr_to_int : %p",ptr_to_int ); // prints 0x001
 printf("value of variable  pointed to by ptr : %p",*ptr_to_int ); // prints 0x001
-
-
 ```
+
+
+#c
