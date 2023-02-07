@@ -55,10 +55,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-02.md",
+                "file": "pointers in c.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "0af55bd36ba85b41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unicode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "a276de6422c2fc97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unicode.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
               }
             }
           },
@@ -125,7 +151,26 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
+      },
+      {
+        "id": "d815b0b06597c222",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28c300f29949a246",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "unicode.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,7 +199,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#c",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,8 +216,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -192,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-02.md",
+                "file": "unicode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-02.md",
+                "file": "unicode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-02.md"
+                "file": "unicode.md"
               }
             }
           },
@@ -243,9 +287,17 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "2e261aca3328f90c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -261,20 +313,21 @@
       "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "802a9cfd49ff8b56",
+  "active": "a276de6422c2fc97",
   "lastOpenFiles": [
-    "pointers in c.md",
+    "Techiques for dotfile Mangement.md",
+    "array pointers in c.md",
     "2023-02-02.md",
-    "lexicographic order.md",
-    "Markdown tutorial + obsidian features.md",
-    "Meta/Attachments/network-internal.png",
-    "helo.md",
-    "golang resources.md",
+    "Anime websites links.md",
     "golang basics.md",
     "git bare reposotires.md",
-    "Anime websites links.md"
+    "lexicographic order.md",
+    "helo.md",
+    "Golang resources.md",
+    "Markdown tutorial + obsidian features.md"
   ]
 }

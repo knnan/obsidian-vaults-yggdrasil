@@ -1,6 +1,6 @@
 {
   "strategy": "default",
-  "matchStrategy": "prefix",
+  "matchStrategy": "partial",
   "maxNumberOfSuggestions": 5,
   "maxNumberOfWordsAsPhrase": 3,
   "minNumberOfCharactersTriggered": 0,
@@ -124,6 +124,54 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1675348589571
+        }
+      }
+    },
+    "characters": {
+      "characters": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675598357314
+        }
+      }
+    },
+    "grapheme": {
+      "grapheme": {
+        "currentFile": {
+          "count": 3,
+          "lastUpdated": 1675598487530
+        }
+      }
+    },
+    "codeunit": {
+      "codeunit": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1675599674311
+        }
+      }
+    },
+    "encoding": {
+      "encoding": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675599576245
+        }
+      }
+    },
+    "utf-32": {
+      "utf-32": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675599633906
+        }
+      }
+    },
+    "______": {
+      "______": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1675601102349
         }
       }
     }
