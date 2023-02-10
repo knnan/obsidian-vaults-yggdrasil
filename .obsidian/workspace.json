@@ -4,169 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "18d70f6b541fe8c9",
+        "id": "de7d01152707a3f6",
         "type": "tabs",
         "children": [
           {
-            "id": "5bf6eb0c6c152042",
+            "id": "6727ad3bf9f7e562",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9d39e13fa832dfca",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "276f335c697a6662",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "60fbaad3a9c5feba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pointers in c.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "802a9cfd49ff8b56",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pointers in c.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0af55bd36ba85b41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unicode.md",
+                "file": "2023-02-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
-              }
-            }
-          },
-          {
-            "id": "a276de6422c2fc97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023-02-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "65d6d69572994d43",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "lexicographic order.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2eeb7995a37e6c41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown tutorial + obsidian features.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "eaf620e5a7b46b3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown tutorial + obsidian features.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "ebb5ffb1f234705d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "golang basics.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "be1ead5156c70f43",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Meta/Attachments/network-internal.png"
-              }
-            }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "d815b0b06597c222",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28c300f29949a246",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "unicode.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
               }
             }
           }
@@ -236,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-07.md",
+                "file": "2023-02-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-07.md",
+                "file": "2023-02-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-07.md"
+                "file": "2023-02-10.md"
               }
             }
           },
@@ -296,12 +146,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,17 +167,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a276de6422c2fc97",
+  "active": "6727ad3bf9f7e562",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "helo.md",
+    "2023-02-07.md",
+    "2023-02-10.md",
+    "2023-02-05.md",
+    "2023-02-02.md",
     "unicode.md",
     "Techiques for dotfile Mangement.md",
     "array pointers in c.md",
-    "2023-02-02.md",
-    "Anime websites links.md",
-    "golang basics.md",
-    "git bare reposotires.md",
-    "lexicographic order.md",
-    "helo.md",
-    "Golang resources.md"
+    "Anime websites links.md"
   ]
 }
