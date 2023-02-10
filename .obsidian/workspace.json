@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "unicode.md",
+                "file": "2023-02-07.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
@@ -236,7 +236,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "unicode.md",
+                "file": "2023-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -253,7 +253,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "unicode.md",
+                "file": "2023-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -276,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "unicode.md"
+                "file": "2023-02-07.md"
               }
             }
           },
@@ -319,6 +319,7 @@
   },
   "active": "a276de6422c2fc97",
   "lastOpenFiles": [
+    "unicode.md",
     "Techiques for dotfile Mangement.md",
     "array pointers in c.md",
     "2023-02-02.md",
@@ -327,7 +328,6 @@
     "git bare reposotires.md",
     "lexicographic order.md",
     "helo.md",
-    "Golang resources.md",
-    "Markdown tutorial + obsidian features.md"
+    "Golang resources.md"
   ]
 }
