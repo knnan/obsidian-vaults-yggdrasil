@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interview prep.md",
+                "file": "2023-02-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interview prep.md",
+                "file": "2023-02-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interview prep.md",
+                "file": "2023-02-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interview prep.md"
+                "file": "2023-02-19.md"
               }
             }
           },
@@ -169,6 +169,7 @@
   },
   "active": "6727ad3bf9f7e562",
   "lastOpenFiles": [
+    "Interview prep.md",
     "2023-02-14.md",
     "2023-02-10.md",
     "Untitled.canvas",
@@ -177,7 +178,6 @@
     "2023-02-05.md",
     "2023-02-02.md",
     "unicode.md",
-    "Techiques for dotfile Mangement.md",
-    "array pointers in c.md"
+    "Techiques for dotfile Mangement.md"
   ]
 }
