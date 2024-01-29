@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "golang resources.md",
+                "file": "Network-traffic-shaping.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -72,6 +72,14 @@
           "type": "starred",
           "state": {}
         }
+      },
+      {
+        "id": "6bbce1eab68de90b",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
       }
     ],
     "currentTab": 0
@@ -86,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "golang resources.md",
+            "file": "Network-traffic-shaping.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -103,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "golang resources.md",
+            "file": "Network-traffic-shaping.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -115,24 +123,43 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "golang resources.md"
+            "file": "Network-traffic-shaping.md"
           }
         }
       }
     ],
     "currentTab": 0
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "36a08ead9c7ddb72",
   "lastOpenFiles": [
-    "ours  vs theirs.md",
+    "Markdown tutorial + obsidian features.md",
+    "Network-traffic-shaping.md",
+    "Techiques for dotfile Mangement.md",
+    "golang basics.md",
+    "Anime websites links.md",
+    "git bare reposotires.md",
+    "Untitled.canvas",
+    "helo.md",
     "golang resources.md",
+    "ours  vs theirs.md",
     "network-shaping-internal-architecture.jpg",
     "network-internal.png",
     "12-28-22.md",
     "163f953f-1078-4ae8-a9c7-f85b88ad8f9a.wav",
     "a747df7e-0734-43e6-a027-91b53e795ebf.wav",
-    "helo.md",
-    "helloParent.md",
-    "git bare reposotires.md"
+    "helloParent.md"
   ]
 }
