@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "c95e6ce18a15b3f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-02-07.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,6 +79,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "4f6f0b0122bb143e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -86,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "array pointers in c.md",
+                "file": "2024-02-07.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "array pointers in c.md",
+                "file": "2024-02-07.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "array pointers in c.md"
+                "file": "2024-02-07.md"
               }
             }
           },
@@ -166,17 +188,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6727ad3bf9f7e562",
+  "active": "c95e6ce18a15b3f8",
   "lastOpenFiles": [
+    "helo.md",
+    "array pointers in c.md",
+    "Anime websites links.md",
+    "2023-02-22.md",
+    "2023-02-10.md",
+    "2023-02-05.md",
+    "2023-02-02.md",
+    "2024-02-07.md",
     "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
     "Meta/Attachments/network-internal.png",
     "2023-02-14.md",
     "2023-02-07.md",
     "2023-02-19.md",
-    "2023-02-02.md",
-    "finite state machines.md",
-    "2023-02-10.md",
-    "2023-02-05.md"
+    "finite state machines.md"
   ]
 }
