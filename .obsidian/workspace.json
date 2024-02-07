@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-02-22.md",
+                "file": "array pointers in c.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-02-22.md",
+                "file": "array pointers in c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-02-22.md",
+                "file": "array pointers in c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-02-22.md"
+                "file": "array pointers in c.md"
               }
             }
           },
@@ -163,21 +163,20 @@
       "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "templater-obsidian:Templater": false
     }
   },
   "active": "6727ad3bf9f7e562",
   "lastOpenFiles": [
-    "2023-02-19.md",
-    "Interview prep.md",
+    "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
+    "Meta/Attachments/network-shaping-internal-architecture.jpg",
+    "Meta/Attachments/network-internal.png",
     "2023-02-14.md",
-    "2023-02-10.md",
-    "Untitled.canvas",
-    "helo.md",
     "2023-02-07.md",
-    "2023-02-05.md",
+    "2023-02-19.md",
     "2023-02-02.md",
-    "unicode.md"
+    "finite state machines.md",
+    "2023-02-10.md",
+    "2023-02-05.md"
   ]
 }

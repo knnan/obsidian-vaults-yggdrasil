@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network-traffic-shaping.md",
+                "file": "helo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Network-traffic-shaping.md",
+            "file": "helo.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Network-traffic-shaping.md",
+            "file": "helo.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Network-traffic-shaping.md"
+            "file": "helo.md"
           }
         }
       }
@@ -145,14 +145,20 @@
   },
   "active": "36a08ead9c7ddb72",
   "lastOpenFiles": [
+    "Anime websites links.md",
+    "helo.md",
     "Markdown tutorial + obsidian features.md",
     "Network-traffic-shaping.md",
+    "finite state machines.md",
+    "git bare reposotires.md",
+    "array pointers in c.md",
+    "2023-02-02.md",
+    "2023-02-19.md",
+    "2023-02-14.md",
+    "2024-01-29.md",
     "Techiques for dotfile Mangement.md",
     "golang basics.md",
-    "Anime websites links.md",
-    "git bare reposotires.md",
     "Untitled.canvas",
-    "helo.md",
     "golang resources.md",
     "ours  vs theirs.md",
     "network-shaping-internal-architecture.jpg",
