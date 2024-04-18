@@ -27,7 +27,6 @@ Headings
 ## Youtube video embed
 <iframe src="https://www.youtube.com/embed/u5blATj71o4" title="Which Self-Hosted Dashboard is Right For You??" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
 ```js
 const name="knnan"
 ```
