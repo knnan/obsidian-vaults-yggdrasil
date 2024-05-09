@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pointers in c.md",
+                "file": "helo.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -92,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -108,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pointers in c.md",
+                "file": "helo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pointers in c.md",
+                "file": "helo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pointers in c.md"
+                "file": "helo.md"
               }
             }
           },
@@ -190,17 +191,17 @@
   },
   "active": "c95e6ce18a15b3f8",
   "lastOpenFiles": [
-    "lexicographic order.md",
     "Golang resources.md",
+    "Interview prep.md",
+    "unicode.md",
+    "lexicographic order.md",
+    "Network-traffic-shaping.md",
+    "pointers in c.md",
     "array pointers in c.md",
     "2023-02-14.md",
-    "Interview prep.md",
     "helo.md",
-    "unicode.md",
     "Untitled.canvas",
     "Techiques for dotfile Mangement.md",
-    "pointers in c.md",
-    "Network-traffic-shaping.md",
     "Markdown tutorial + obsidian features.md",
     "git bare reposotires.md",
     "finite state machines.md",
