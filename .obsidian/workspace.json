@@ -24,12 +24,14 @@
             "id": "c95e6ce18a15b3f8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "helo.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -116.2869256949423,
+                  "y": -310.7458769106866,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -109,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "helo.md",
+                "file": "fasd.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "helo.md",
+                "file": "fasd.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "helo.md"
+                "file": "fasd.md"
               }
             }
           },
@@ -191,6 +193,9 @@
   },
   "active": "c95e6ce18a15b3f8",
   "lastOpenFiles": [
+    "fasd.md",
+    "helo.md",
+    "Untitled.canvas",
     "Golang resources.md",
     "Interview prep.md",
     "unicode.md",
@@ -199,8 +204,6 @@
     "pointers in c.md",
     "array pointers in c.md",
     "2023-02-14.md",
-    "helo.md",
-    "Untitled.canvas",
     "Techiques for dotfile Mangement.md",
     "Markdown tutorial + obsidian features.md",
     "git bare reposotires.md",

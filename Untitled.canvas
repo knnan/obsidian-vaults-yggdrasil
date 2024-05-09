@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"8c7ddf453c713439","x":100,"y":-660,"width":250,"height":218,"type":"file","file":"fasd.md"},
+		{"id":"1b9d949fd56a973c","x":-700,"y":-500,"width":250,"height":60,"type":"text","text":"client"},
+		{"id":"d4cc45aac92a8c6c","x":-320,"y":-500,"width":250,"height":60,"color":"4","type":"text","text":"server a"},
+		{"id":"b6fbc832c6e2211f","x":500,"y":-320,"width":400,"height":420,"color":"2","type":"file","file":"Network-traffic-shaping.md"},
+		{"id":"a36b744f5e5e804c","x":-240,"y":-209,"width":400,"height":309,"type":"file","file":"Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png"}
+	],
+	"edges":[
+		{"id":"d28e6b16faf06153","fromNode":"1b9d949fd56a973c","fromSide":"right","toNode":"d4cc45aac92a8c6c","toSide":"left"},
+		{"id":"99cc9c9e7906feb7","fromNode":"d4cc45aac92a8c6c","fromSide":"right","toNode":"8c7ddf453c713439","toSide":"left"},
+		{"id":"fa6d5a8dae5da441","fromNode":"8c7ddf453c713439","fromSide":"right","toNode":"b6fbc832c6e2211f","toSide":"left"},
+		{"id":"d1ccc30588a262ce","fromNode":"8c7ddf453c713439","fromSide":"bottom","toNode":"a36b744f5e5e804c","toSide":"top"}
+	]
+}
