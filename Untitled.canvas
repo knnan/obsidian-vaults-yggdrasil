@@ -1,15 +1,11 @@
 {
 	"nodes":[
-		{"id":"8c7ddf453c713439","x":100,"y":-660,"width":250,"height":218,"type":"file","file":"fasd.md"},
-		{"id":"1b9d949fd56a973c","x":-700,"y":-500,"width":250,"height":60,"type":"text","text":"client"},
-		{"id":"d4cc45aac92a8c6c","x":-320,"y":-500,"width":250,"height":60,"color":"4","type":"text","text":"server a"},
-		{"id":"b6fbc832c6e2211f","x":500,"y":-320,"width":400,"height":420,"color":"2","type":"file","file":"Network-traffic-shaping.md"},
-		{"id":"a36b744f5e5e804c","x":-240,"y":-209,"width":400,"height":309,"type":"file","file":"Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png"}
+		{"id":"d4cc45aac92a8c6c","type":"text","text":"wilnet server\n\n@7000 => 443\n\nhttpserver(5011)","x":-320,"y":-760,"width":250,"height":320,"color":"4"},
+		{"id":"1b9d949fd56a973c","type":"text","text":"client","x":-1340,"y":-500,"width":250,"height":60},
+		{"id":"08efa6187428f9de","x":-922,"y":-357,"width":250,"height":60,"type":"text","text":"client -> 443 asking for 5011"},
+		{"id":"e1908ccb38457a39","x":-620,"y":-358,"width":203,"height":338,"type":"text","text":"rbox => /getwildnetport\n\nset in device"}
 	],
 	"edges":[
-		{"id":"d28e6b16faf06153","fromNode":"1b9d949fd56a973c","fromSide":"right","toNode":"d4cc45aac92a8c6c","toSide":"left"},
-		{"id":"99cc9c9e7906feb7","fromNode":"d4cc45aac92a8c6c","fromSide":"right","toNode":"8c7ddf453c713439","toSide":"left"},
-		{"id":"fa6d5a8dae5da441","fromNode":"8c7ddf453c713439","fromSide":"right","toNode":"b6fbc832c6e2211f","toSide":"left"},
-		{"id":"d1ccc30588a262ce","fromNode":"8c7ddf453c713439","fromSide":"bottom","toNode":"a36b744f5e5e804c","toSide":"top"}
+		{"id":"d28e6b16faf06153","fromNode":"1b9d949fd56a973c","fromSide":"right","toNode":"d4cc45aac92a8c6c","toSide":"left"}
 	]
 }
