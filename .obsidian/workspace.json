@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "array pointers in c.md",
+                "file": "Markdown tutorial + obsidian features.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -35,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -111,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Markdown tutorial + obsidian features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Markdown tutorial + obsidian features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Markdown tutorial + obsidian features.md"
               }
             }
           },
@@ -191,25 +189,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c95e6ce18a15b3f8",
+  "active": "6727ad3bf9f7e562",
   "lastOpenFiles": [
-    "fasd.md",
-    "helo.md",
-    "Untitled.canvas",
-    "Golang resources.md",
-    "Interview prep.md",
-    "unicode.md",
-    "lexicographic order.md",
-    "Network-traffic-shaping.md",
+    "golang basics.md",
     "pointers in c.md",
-    "array pointers in c.md",
-    "2023-02-14.md",
     "Techiques for dotfile Mangement.md",
+    "Network-traffic-shaping.md",
+    "Untitled.canvas",
+    "unicode.md",
+    "Interview prep.md",
     "Markdown tutorial + obsidian features.md",
-    "git bare reposotires.md",
     "finite state machines.md",
     "Anime websites links.md",
     "2024-02-07.md",
+    "array pointers in c.md",
+    "fasd.md",
+    "helo.md",
+    "Golang resources.md",
+    "lexicographic order.md",
+    "2023-02-14.md",
+    "git bare reposotires.md",
     "2023-02-05.md",
     "2023-02-02.md",
     "2023-02-10.md",
