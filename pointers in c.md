@@ -1,12 +1,12 @@
 # Pointers to variables
-- pointers store addresss of another variable 
+- pointers store addreses of another variable 
 - pointers have a type usually it is of the form *pointer to variable type*
 
 
-variable address |variable name| value 
------------------|---------|----------
-0x0001|a|1
-0x0005|p|0x0001 
+| variable address | variable name | value  |
+| ---------------- | ------------- | ------ |
+| 0x0001           | a             | 1      |
+| 0x0005           | p             | 0x0001 |
 
 # Address of a variable 
 The ampersand `&` operator is used to get the address of a variables.

@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "de7d01152707a3f6",
+        "id": "eac114a2bf0083e7",
         "type": "tabs",
         "children": [
           {
-            "id": "6727ad3bf9f7e562",
+            "id": "52f5c1d10e35a655",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Markdown tutorial + obsidian features.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c95e6ce18a15b3f8",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -769.6161731410026,
-                  "y": -340.0538412356378,
-                  "zoom": 0
-                }
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -89,7 +69,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -109,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,7 +106,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown tutorial + obsidian features.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Markdown tutorial + obsidian features.md"
-              }
+              "state": {}
             }
           },
           {
@@ -189,28 +166,29 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6727ad3bf9f7e562",
+  "active": "52f5c1d10e35a655",
   "lastOpenFiles": [
-    "golang basics.md",
+    "Untitled 1.canvas",
     "pointers in c.md",
-    "Techiques for dotfile Mangement.md",
-    "Network-traffic-shaping.md",
     "Untitled.canvas",
+    "Network-traffic-shaping.md",
+    "lexicographic order.md",
+    "Golang resources.md",
+    "git bare reposotires.md",
+    "array pointers in c.md",
+    "Anime websites links.md",
+    "golang basics.md",
     "unicode.md",
+    "2024-02-07.md",
+    "2023-02-05.md",
+    "2023-02-14.md",
+    "2023-02-02.md",
     "Interview prep.md",
     "Markdown tutorial + obsidian features.md",
+    "Techiques for dotfile Mangement.md",
     "finite state machines.md",
-    "Anime websites links.md",
-    "2024-02-07.md",
-    "array pointers in c.md",
     "fasd.md",
     "helo.md",
-    "Golang resources.md",
-    "lexicographic order.md",
-    "2023-02-14.md",
-    "git bare reposotires.md",
-    "2023-02-05.md",
-    "2023-02-02.md",
     "2023-02-10.md",
     "2023-02-07.md",
     "2023-02-22.md",

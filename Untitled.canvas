@@ -1,14 +1,17 @@
 {
 	"nodes":[
-		{"id":"1d9910d4c4795f20","x":-1148,"y":-669,"width":250,"height":60,"type":"text","text":""},
-		{"id":"7c255fd3eb9bf931","type":"text","text":"","x":-420,"y":-267,"width":250,"height":60},
-		{"id":"4d7bf31035bd63bf","type":"text","text":"","x":-240,"y":-735,"width":250,"height":60},
-		{"id":"73c43bd92fda943b","type":"text","text":"LogServer","x":-850,"y":-140,"width":290,"height":65},
-		{"id":"99e582780a2b3611","type":"text","text":"pcloudsample\n`git init`\n\ncraet file.txt with hello world\n\n","x":-760,"y":-735,"width":250,"height":260},
-		{"id":"49663ccb0ff26f15","x":-1300,"y":-327,"width":250,"height":60,"type":"text","text":"appium proxy"}
+		{"id":"52984b249d03d02d","x":-581,"y":-432,"width":400,"height":400,"type":"group","label":"fasdf"},
+		{"id":"99e582780a2b3611","type":"text","text":"pcloudsample\n`git init`\n\ncraet file.txt with hello world\n\n","x":-850,"y":-739,"width":470,"height":260},
+		{"id":"1d9910d4c4795f20","type":"text","text":"","x":-1360,"y":-705,"width":250,"height":60},
+		{"id":"49663ccb0ff26f15","type":"text","text":"appium proxy","x":-1160,"y":-639,"width":250,"height":60},
+		{"id":"7c255fd3eb9bf931","type":"text","text":"","x":-975,"y":-220,"width":250,"height":60},
+		{"id":"73c43bd92fda943b","type":"text","text":"fasdfasdLogServer","x":-760,"y":-320,"width":290,"height":65,"color":"3"},
+		{"id":"4d7bf31035bd63bf","type":"text","text":"","x":-300,"y":-765,"width":250,"height":60},
+		{"id":"f461ffa90b27376d","x":-1110,"y":-540,"width":528,"height":205,"type":"text","text":"- this\n- is not one ot thos things\n- [] \n- [x] fasdjljlk\n- [x] fasd\n- [x] fasdf\n- [ ] 📅 "}
 	],
 	"edges":[
-		{"id":"0db22bc39d97d798","fromNode":"73c43bd92fda943b","fromSide":"right","toNode":"99e582780a2b3611","toSide":"bottom"},
-		{"id":"5d95d5b3af2d7cb9","fromNode":"49663ccb0ff26f15","fromSide":"top","toNode":"99e582780a2b3611","toSide":"left"}
+		{"id":"0db22bc39d97d798","fromNode":"73c43bd92fda943b","fromSide":"top","toNode":"99e582780a2b3611","toSide":"bottom","fromEnd":"arrow"},
+		{"id":"5d95d5b3af2d7cb9","fromNode":"49663ccb0ff26f15","fromSide":"right","toNode":"99e582780a2b3611","toSide":"left"},
+		{"id":"be2096ba52a21ba5","fromNode":"99e582780a2b3611","fromSide":"right","toNode":"4d7bf31035bd63bf","toSide":"left"}
 	]
 }
