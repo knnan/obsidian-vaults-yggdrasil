@@ -11,8 +11,15 @@
             "id": "52f5c1d10e35a655",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -705,
+                  "y": -398.5,
+                  "zoom": -0.032398723865111154
+                }
+              }
             }
           }
         ]
@@ -69,8 +76,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -90,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.canvas"
+              }
             }
           },
           {
@@ -163,17 +173,21 @@
       "command-palette:Open command palette": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "52f5c1d10e35a655",
   "lastOpenFiles": [
     "Untitled 1.canvas",
-    "pointers in c.md",
     "Untitled.canvas",
+    "Golang resources.md",
+    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "Techiques for dotfile Mangement.md",
     "Network-traffic-shaping.md",
     "lexicographic order.md",
-    "Golang resources.md",
+    "Excalidraw",
+    "pointers in c.md",
     "git bare reposotires.md",
     "array pointers in c.md",
     "Anime websites links.md",
@@ -185,7 +199,6 @@
     "2023-02-02.md",
     "Interview prep.md",
     "Markdown tutorial + obsidian features.md",
-    "Techiques for dotfile Mangement.md",
     "finite state machines.md",
     "fasd.md",
     "helo.md",
