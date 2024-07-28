@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "eac114a2bf0083e7",
+        "id": "37b1d015567f7a7d",
         "type": "tabs",
         "children": [
           {
-            "id": "52f5c1d10e35a655",
+            "id": "e9d5bd40f05678a7",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -705,
-                  "y": -398.5,
-                  "zoom": -0.032398723865111154
+                  "x": 1098.2591592277392,
+                  "y": -1462.0122945526853,
+                  "zoom": 0.41103100143125704
                 }
               }
             }
@@ -58,14 +58,6 @@
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "63b93d0500474777",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -177,30 +169,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "52f5c1d10e35a655",
+  "active": "e9d5bd40f05678a7",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Golang resources.md",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-25 14.23.54.excalidraw.md",
+    "Markdown tutorial + obsidian features.md",
+    "lexicographic order.md",
+    "golang basics.md",
+    "fasd.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Golang resources.md",
     "Techiques for dotfile Mangement.md",
     "Network-traffic-shaping.md",
-    "lexicographic order.md",
     "Excalidraw",
     "pointers in c.md",
     "git bare reposotires.md",
     "array pointers in c.md",
     "Anime websites links.md",
-    "golang basics.md",
     "unicode.md",
     "2024-02-07.md",
     "2023-02-05.md",
     "2023-02-14.md",
     "2023-02-02.md",
     "Interview prep.md",
-    "Markdown tutorial + obsidian features.md",
     "finite state machines.md",
-    "fasd.md",
     "helo.md",
     "2023-02-10.md",
     "2023-02-07.md",

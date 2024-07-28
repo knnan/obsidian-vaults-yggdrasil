@@ -1,17 +1,620 @@
 {
-	"nodes":[
-		{"id":"52984b249d03d02d","type":"group","x":-581,"y":-432,"width":400,"height":400,"label":"fasdf"},
-		{"id":"99e582780a2b3611","type":"text","text":"pcloudsample\n`git init`\n\ncraet file.txt with hello world\n\n","x":-850,"y":-739,"width":470,"height":260},
-		{"id":"1d9910d4c4795f20","type":"text","text":"","x":-1360,"y":-705,"width":250,"height":60},
-		{"id":"49663ccb0ff26f15","type":"text","text":"appium proxy","x":-1160,"y":-639,"width":250,"height":60},
-		{"id":"73c43bd92fda943b","type":"text","text":"fasdfasdLogServer","x":-760,"y":-320,"width":290,"height":65,"color":"3"},
-		{"id":"4d7bf31035bd63bf","type":"text","text":"","x":-300,"y":-765,"width":250,"height":60},
-		{"id":"f461ffa90b27376d","type":"text","text":"- this\n- is not one ot thos things\n- [] \n- [x] fasdjljlk\n- [x] fasd\n- [x] fasdf\n- [ ] 📅 ","x":-1320,"y":-440,"width":528,"height":205},
-		{"id":"7c255fd3eb9bf931","type":"text","text":"","x":-850,"y":-100,"width":250,"height":60}
-	],
-	"edges":[
-		{"id":"0db22bc39d97d798","fromNode":"73c43bd92fda943b","fromSide":"top","toNode":"99e582780a2b3611","toSide":"bottom","fromEnd":"arrow"},
-		{"id":"5d95d5b3af2d7cb9","fromNode":"49663ccb0ff26f15","fromSide":"right","toNode":"99e582780a2b3611","toSide":"left"},
-		{"id":"be2096ba52a21ba5","fromNode":"99e582780a2b3611","fromSide":"right","toNode":"4d7bf31035bd63bf","toSide":"left"}
-	]
+  "nodes": [
+    {
+      "id": "e2294b037ddd140a",
+      "type": "group",
+      "styleAttributes": {},
+      "x": 1320,
+      "y": -80,
+      "width": 400,
+      "height": 400,
+      "label": "Untitled group"
+    },
+    {
+      "id": "9aed030a2abbdd9d",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 513,
+      "y": -493,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6069b249217232ae",
+      "type": "text",
+      "text": "node-stg",
+      "styleAttributes": {},
+      "x": -20,
+      "y": -460,
+      "width": 250,
+      "height": 190
+    },
+    {
+      "id": "a8c90c57d385abf1",
+      "type": "text",
+      "text": "feat2",
+      "styleAttributes": {},
+      "x": -400,
+      "y": -880,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "efb625a9a59e7e46",
+      "type": "text",
+      "text": "fix branches if any during regression",
+      "styleAttributes": {},
+      "x": -620,
+      "y": -580,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4573c33e265afbb1",
+      "type": "text",
+      "text": "PUBLIC TEST ENV",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -395,
+      "width": 250,
+      "height": 60,
+      "color": "6"
+    },
+    {
+      "id": "d878ea58b49c23f0",
+      "type": "text",
+      "text": "feat 1",
+      "styleAttributes": {},
+      "x": -400,
+      "y": -1040,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "49378fdab9372b24",
+      "type": "text",
+      "text": "browsercloud feat",
+      "styleAttributes": {},
+      "x": -400,
+      "y": -1220,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "49663ccb0ff26f15",
+      "type": "text",
+      "text": "**development**",
+      "styleAttributes": {},
+      "x": -832,
+      "y": -980,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "17dae9479afd2c94",
+      "type": "text",
+      "text": "release branch d2",
+      "styleAttributes": {},
+      "x": -832,
+      "y": -1250,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3cd652ceb396c685",
+      "type": "text",
+      "text": "1.33.0",
+      "styleAttributes": {},
+      "x": -970,
+      "y": -1350,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "4b6125e3f3e17fee",
+      "type": "text",
+      "text": "1.34.0",
+      "styleAttributes": {},
+      "x": -970,
+      "y": -1477,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "edf9c6346faefc6b",
+      "type": "text",
+      "text": "test.pcloudy.com\n\nintergration",
+      "styleAttributes": {},
+      "x": -960,
+      "y": -460,
+      "width": 250,
+      "height": 190
+    },
+    {
+      "id": "76c6d00925bccb49",
+      "type": "text",
+      "text": "staging.pcloudy.com\n\n\n\npre prod testing",
+      "styleAttributes": {},
+      "x": -1260,
+      "y": -460,
+      "width": 250,
+      "height": 190
+    },
+    {
+      "id": "0bf2c1bdf4243e83",
+      "type": "text",
+      "text": "private live\n\npre prod ",
+      "styleAttributes": {},
+      "x": -1260,
+      "y": -160,
+      "width": 250,
+      "height": 190
+    },
+    {
+      "id": "ca4b07db4d1b2723",
+      "type": "text",
+      "text": "private-test\n\nintergration",
+      "styleAttributes": {},
+      "x": -960,
+      "y": -160,
+      "width": 250,
+      "height": 190
+    },
+    {
+      "id": "8ec5052b1eb42557",
+      "type": "text",
+      "text": "4  (public d2)",
+      "styleAttributes": {},
+      "x": -1040,
+      "y": -1773,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "cea1ee3ff68f772d",
+      "type": "text",
+      "text": "5 (private d2)",
+      "styleAttributes": {},
+      "x": -1040,
+      "y": -1680,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "2431920b000994f8",
+      "type": "text",
+      "text": "PRIVATE TEST ENV",
+      "styleAttributes": {},
+      "x": -640,
+      "y": -95,
+      "width": 250,
+      "height": 60,
+      "color": "5"
+    },
+    {
+      "id": "c1e94a93dd576c8a",
+      "type": "text",
+      "text": "1.34",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -1833,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "24c9f60add41fb9d",
+      "type": "text",
+      "text": "browser changes ",
+      "styleAttributes": {},
+      "x": -653,
+      "y": -1833,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "2b767b133cd5b4bc",
+      "type": "text",
+      "text": "rqwlejr;lwqe\n",
+      "styleAttributes": {},
+      "x": 1266,
+      "y": -166,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "1d9910d4c4795f20",
+      "type": "text",
+      "text": "main ",
+      "styleAttributes": {},
+      "x": -1540,
+      "y": -980,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "9b60286fa3f95e06",
+      "type": "text",
+      "text": "release d1",
+      "styleAttributes": {},
+      "x": -1220,
+      "y": -980,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "f2b059a746ddb793",
+      "type": "text",
+      "text": "relase brach 1.33.o",
+      "styleAttributes": {},
+      "x": -1352,
+      "y": -1350,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "3146673b371941f3",
+      "type": "text",
+      "text": "browser changes",
+      "styleAttributes": {},
+      "x": -1352,
+      "y": -1477,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6b707a6cd4721fdd",
+      "type": "text",
+      "text": "1",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -2073,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "132e1ce02ea5f260",
+      "type": "text",
+      "text": "2",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -1963,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "0ba854b6ceaf095e",
+      "type": "text",
+      "text": "3",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -1873,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "0e05097189387a19",
+      "type": "text",
+      "text": "4 (public d1)",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -1773,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "06beef7c4d3b09ed",
+      "type": "text",
+      "text": "5 (private d1) 1.33.0",
+      "styleAttributes": {},
+      "x": -1400,
+      "y": -1680,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "695913dd2fb92bfe",
+      "type": "text",
+      "text": "1",
+      "styleAttributes": {},
+      "x": -1040,
+      "y": -2073,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "2316c67322081287",
+      "type": "text",
+      "text": "2",
+      "styleAttributes": {},
+      "x": -1040,
+      "y": -1963,
+      "width": 250,
+      "height": 50
+    },
+    {
+      "id": "23a067ed523fa237",
+      "type": "text",
+      "text": "3  ",
+      "styleAttributes": {},
+      "x": -1040,
+      "y": -1873,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "6198a9f04cbf9589",
+      "type": "text",
+      "text": "1.33.0",
+      "styleAttributes": {},
+      "x": -300,
+      "y": -1933,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "bfcaa05fb21326f5",
+      "type": "text",
+      "text": "5 (private d1) 1.34.0",
+      "styleAttributes": {},
+      "x": -653,
+      "y": -1933,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "d45d5bcbba23f0d7",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 1780,
+      "y": 0,
+      "width": 250,
+      "height": 60
+    },
+    {
+      "id": "29524210d1a45a58",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "shape": "pill"
+      },
+      "x": 502,
+      "y": -1342,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e4db0faa0105a14a",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {
+        "border": "dashed"
+      },
+      "x": 1120,
+      "y": -1366,
+      "width": 204,
+      "height": 109
+    }
+  ],
+  "edges": [
+    {
+      "id": "a5e3307f2f45d70d",
+      "fromNode": "1d9910d4c4795f20",
+      "fromSide": "right",
+      "toNode": "9b60286fa3f95e06",
+      "toSide": "left"
+    },
+    {
+      "id": "e7e357943131732f",
+      "fromNode": "49663ccb0ff26f15",
+      "fromSide": "left",
+      "toNode": "9b60286fa3f95e06",
+      "toSide": "right"
+    },
+    {
+      "id": "4426aeccb88ecb42",
+      "fromNode": "49663ccb0ff26f15",
+      "fromSide": "right",
+      "toNode": "a8c90c57d385abf1",
+      "toSide": "left"
+    },
+    {
+      "id": "a767cdfcc9be43c8",
+      "fromNode": "49663ccb0ff26f15",
+      "fromSide": "right",
+      "toNode": "d878ea58b49c23f0",
+      "toSide": "left"
+    },
+    {
+      "id": "b7fb905a56c1ddec",
+      "fromNode": "9b60286fa3f95e06",
+      "fromSide": "bottom",
+      "toNode": "edf9c6346faefc6b",
+      "toSide": "top",
+      "label": "regression\n\n\n1 week before"
+    },
+    {
+      "id": "ad2637e332342465",
+      "fromNode": "a8c90c57d385abf1",
+      "fromSide": "right",
+      "toNode": "6069b249217232ae",
+      "toSide": "top"
+    },
+    {
+      "id": "12cf271756c9c1f0",
+      "fromNode": "d878ea58b49c23f0",
+      "fromSide": "right",
+      "toNode": "6069b249217232ae",
+      "toSide": "top",
+      "label": "buddy test"
+    },
+    {
+      "id": "2b587846cf1562a8",
+      "fromNode": "d878ea58b49c23f0",
+      "fromSide": "top",
+      "toNode": "49663ccb0ff26f15",
+      "toSide": "top",
+      "label": "after buddy test"
+    },
+    {
+      "id": "966e43658e0195ca",
+      "fromNode": "a8c90c57d385abf1",
+      "fromSide": "bottom",
+      "toNode": "49663ccb0ff26f15",
+      "toSide": "bottom",
+      "label": "after buddy test"
+    },
+    {
+      "id": "61fb3cf4649fb0d6",
+      "fromNode": "9b60286fa3f95e06",
+      "fromSide": "bottom",
+      "toNode": "76c6d00925bccb49",
+      "toSide": "top",
+      "label": "release testing\njust after regression testing"
+    },
+    {
+      "id": "709d8a42ec6a7f74",
+      "fromNode": "9b60286fa3f95e06",
+      "fromSide": "bottom",
+      "toNode": "efb625a9a59e7e46",
+      "toSide": "top"
+    },
+    {
+      "id": "daacaf912a5a7a9c",
+      "fromNode": "9b60286fa3f95e06",
+      "fromSide": "top",
+      "toNode": "49663ccb0ff26f15",
+      "toSide": "top",
+      "label": "after fixes and testiong"
+    },
+    {
+      "id": "9eb9e41bd4910932",
+      "fromNode": "9b60286fa3f95e06",
+      "fromSide": "top",
+      "toNode": "1d9910d4c4795f20",
+      "toSide": "top",
+      "label": "after release testing is done"
+    },
+    {
+      "id": "0fa22b9b1ddbac0e",
+      "fromNode": "49663ccb0ff26f15",
+      "fromSide": "right",
+      "toNode": "49378fdab9372b24",
+      "toSide": "left"
+    },
+    {
+      "id": "5108dfcc1f153421",
+      "fromNode": "49378fdab9372b24",
+      "fromSide": "top",
+      "toNode": "49663ccb0ff26f15",
+      "toSide": "top",
+      "label": "merge to dev"
+    },
+    {
+      "id": "d79295419a649605",
+      "fromNode": "f2b059a746ddb793",
+      "fromSide": "top",
+      "toNode": "3146673b371941f3",
+      "toSide": "bottom"
+    },
+    {
+      "id": "0e9167cbca91bc86",
+      "fromNode": "f2b059a746ddb793",
+      "fromSide": "right",
+      "toNode": "3cd652ceb396c685",
+      "toSide": "left"
+    },
+    {
+      "id": "8151ca7362903f61",
+      "fromNode": "3146673b371941f3",
+      "fromSide": "right",
+      "toNode": "4b6125e3f3e17fee",
+      "toSide": "left"
+    },
+    {
+      "id": "3ce4f216e748797f",
+      "fromNode": "49663ccb0ff26f15",
+      "fromSide": "top",
+      "toNode": "17dae9479afd2c94",
+      "toSide": "bottom"
+    },
+    {
+      "id": "d4ff950ffb4e23e4",
+      "fromNode": "bfcaa05fb21326f5",
+      "fromSide": "right",
+      "toNode": "6198a9f04cbf9589",
+      "toSide": "left"
+    },
+    {
+      "id": "a2731f362cdd03af",
+      "fromNode": "bfcaa05fb21326f5",
+      "fromSide": "bottom",
+      "toNode": "24c9f60add41fb9d",
+      "toSide": "top"
+    },
+    {
+      "id": "2e31f93972adf3fb",
+      "fromNode": "edf9c6346faefc6b",
+      "fromSide": "left",
+      "toNode": "76c6d00925bccb49",
+      "toSide": "right"
+    },
+    {
+      "id": "5296a8a3f2579520",
+      "fromNode": "ca4b07db4d1b2723",
+      "fromSide": "left",
+      "toNode": "0bf2c1bdf4243e83",
+      "toSide": "right"
+    },
+    {
+      "id": "5f30dc5831a51aef",
+      "fromNode": "edf9c6346faefc6b",
+      "fromSide": "right",
+      "toNode": "4573c33e265afbb1",
+      "toSide": "left"
+    },
+    {
+      "id": "f26622aef095abb0",
+      "fromNode": "ca4b07db4d1b2723",
+      "fromSide": "right",
+      "toNode": "2431920b000994f8",
+      "toSide": "left"
+    },
+    {
+      "id": "c590ee4354b514ae",
+      "fromNode": "49378fdab9372b24",
+      "fromSide": "right",
+      "toNode": "6069b249217232ae",
+      "toSide": "top"
+    },
+    {
+      "id": "e8028cbea8572c87",
+      "fromNode": "24c9f60add41fb9d",
+      "fromSide": "right",
+      "toNode": "c1e94a93dd576c8a",
+      "toSide": "left"
+    },
+    {
+      "id": "eae5844e874855ac",
+      "fromNode": "e2294b037ddd140a",
+      "fromSide": "right",
+      "toNode": "d45d5bcbba23f0d7",
+      "toSide": "left"
+    },
+    {
+      "id": "0811583085f1c98f",
+      "styleAttributes": {
+        "arrow": "circle",
+        "pathfindingMethod": "direct",
+        "path": "short-dashed"
+      },
+      "fromNode": "29524210d1a45a58",
+      "fromSide": "right",
+      "toNode": "e4db0faa0105a14a",
+      "toSide": "left",
+      "label": "fsadds"
+    }
+  ],
+  "metadata": {}
 }
