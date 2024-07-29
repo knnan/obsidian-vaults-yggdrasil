@@ -19,9 +19,9 @@ They are
 ***
 ### Qdisc
 
-**qdisc** is short for 'queueing discipline' and it is elementary to understanding traffic
+**qdisc** is short for 'queuing discipline' and it is elementary to understanding traffic
 control. Whenever the kernel needs to send a packet to an interface, it is **enqueued** to the qdisc  configured  for  that interface. Immediately afterwards, the kernel tries to get as many packets as possible from the qdisc, for giving them to the network adaptor driver.
-Qdiscs can be majourly divided into two groups 
+Qdiscs can be mainly divided into two groups 
 Classfull qdiscs - qdiscs which can contain classes
 Classless qdiscs - qdiscs which cannot contain classes 
 
