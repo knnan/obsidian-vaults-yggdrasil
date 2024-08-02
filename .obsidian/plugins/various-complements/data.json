@@ -47,139 +47,19 @@
   },
   "showLogAboutPerformanceInConsole": false,
   "selectionHistoryTree": {
-    "Network-traffic-shaping": {
-      "Network-traffic-shaping": {
-        "internalLink": {
-          "count": 1,
-          "lastUpdated": 1674185465306
-        }
-      }
-    },
-    "variables": {
-      "variables": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1674293968751
-        }
-      }
-    },
-    "hello": {
-      "hello": {
+    "zsh-widgets": {
+      "zsh-widgets": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1675333935263
+          "lastUpdated": 1722312560212
         }
       }
     },
-    "0x0001": {
-      "0x0001": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1675335318883
-        }
-      }
-    },
-    "variable": {
-      "variable": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1675335547703
-        }
-      }
-    },
-    "address_of_a": {
-      "address_of_a": {
+    "functionname": {
+      "functionname": {
         "currentFile": {
           "count": 1,
-          "lastUpdated": 1675335331043
-        }
-      }
-    },
-    "value": {
-      "value": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675335539089
-        }
-      }
-    },
-    "ptr_to_int": {
-      "ptr_to_int": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1675335578564
-        }
-      }
-    },
-    "ordering": {
-      "ordering": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675347382517
-        }
-      }
-    },
-    "interger": {
-      "interger": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675348589571
-        }
-      }
-    },
-    "characters": {
-      "characters": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675598357314
-        }
-      }
-    },
-    "grapheme": {
-      "grapheme": {
-        "currentFile": {
-          "count": 3,
-          "lastUpdated": 1675598487530
-        }
-      }
-    },
-    "codeunit": {
-      "codeunit": {
-        "currentFile": {
-          "count": 2,
-          "lastUpdated": 1675599674311
-        }
-      }
-    },
-    "encoding": {
-      "encoding": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675599576245
-        }
-      }
-    },
-    "utf-32": {
-      "utf-32": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675599633906
-        }
-      }
-    },
-    "______": {
-      "______": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1675601102349
-        }
-      }
-    },
-    "redis-installation": {
-      "redis-installation": {
-        "currentFile": {
-          "count": 1,
-          "lastUpdated": 1676005527574
+          "lastUpdated": 1722312577631
         }
       }
     }
