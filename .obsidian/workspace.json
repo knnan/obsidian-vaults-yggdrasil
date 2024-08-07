@@ -26,12 +26,14 @@
             "id": "39f797ee86a4f4d5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "zsh.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -153.15982426106703,
+                  "y": -597.8707700138128,
+                  "zoom": -0.23537765364595087
+                }
               }
             }
           }
@@ -102,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zsh.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zsh.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zsh.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -185,8 +187,8 @@
   },
   "active": "39f797ee86a4f4d5",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "zsh.md",
+    "Untitled.canvas",
     "Network-traffic-shaping.md",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Excalidraw/Drawing 2024-07-25 14.23.54.excalidraw.md",
