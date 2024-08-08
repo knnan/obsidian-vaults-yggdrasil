@@ -4,5 +4,8 @@
   "cssTheme": "",
   "interfaceFontFamily": "Inter,Roboto,Ubuntu,Monaco,Liberation Mono,Arial,Roboto Mono,DejaVu Sans,Noto Mono,Iosevka",
   "textFontFamily": "Iosevka,Cousine,Noto Sans,JetBrains Mono,Noto Mono,Roboto,Ubuntu Mono,Ubuntu",
-  "monospaceFontFamily": "Noto Mono"
+  "monospaceFontFamily": "Noto Mono",
+  "enabledCssSnippets": [
+    "canvas-text-align"
+  ]
 }
