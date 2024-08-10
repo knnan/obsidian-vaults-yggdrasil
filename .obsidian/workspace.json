@@ -13,7 +13,7 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "pcloudy-release-strategy.canvas",
                 "viewState": {
                   "x": -826.9430936648581,
                   "y": -1701.0426487426555,
@@ -26,19 +26,30 @@
             "id": "39f797ee86a4f4d5",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -1256.6174465513222,
-                  "y": -1311.8329437994958,
-                  "zoom": 0
-                }
+                "file": "pointers in c.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "feeafba3e7b85a16",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cors and api restriction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Cors and api restriction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Cors and api restriction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Cors and api restriction.md"
               }
             }
           },
@@ -185,36 +196,37 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39f797ee86a4f4d5",
+  "active": "feeafba3e7b85a16",
   "lastOpenFiles": [
-    "zsh.md",
-    "Untitled.canvas",
+    "pointers in c.md",
+    "Cors and api restriction.md",
+    "pcloudy-release-strategy.canvas",
     "Network-traffic-shaping.md",
-    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
-    "Excalidraw/Drawing 2024-07-25 14.23.54.excalidraw.md",
     "Markdown tutorial + obsidian features.md",
     "lexicographic order.md",
     "golang basics.md",
-    "fasd.md",
-    "Untitled 1.canvas",
     "Golang resources.md",
-    "Techiques for dotfile Mangement.md",
-    "Excalidraw",
-    "pointers in c.md",
-    "git bare reposotires.md",
+    "finite state machines.md",
     "array pointers in c.md",
     "Anime websites links.md",
+    "git bare reposotires.md",
+    "Interview prep.md",
+    "Untitled.canvas",
+    "zsh.md",
+    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-25 14.23.54.excalidraw.md",
+    "fasd.md",
+    "Untitled 1.canvas",
+    "Techiques for dotfile Mangement.md",
+    "Excalidraw",
     "unicode.md",
     "2024-02-07.md",
     "2023-02-05.md",
     "2023-02-14.md",
     "2023-02-02.md",
-    "Interview prep.md",
-    "finite state machines.md",
     "helo.md",
     "2023-02-10.md",
     "2023-02-07.md",
-    "2023-02-22.md",
     "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
     "Meta/Attachments/network-internal.png"

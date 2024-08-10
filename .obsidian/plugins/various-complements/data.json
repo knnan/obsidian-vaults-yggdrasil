@@ -62,6 +62,22 @@
           "lastUpdated": 1722312577631
         }
       }
+    },
+    "person": {
+      "person": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1723091568445
+        }
+      }
+    },
+    "domain": {
+      "domain": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1723091571793
+        }
+      }
     }
   }
 }
