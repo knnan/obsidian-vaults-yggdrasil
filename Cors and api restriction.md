@@ -29,3 +29,5 @@ ip filter:
 - ip filter :should only be applie to internal apis that are not using in a webpage 
 - cors can be use to deny certain webpage from making a request but it cannot filter any cli client. or any maching like using cur 
 - 
+
+[[auth flow.canvas|auth flow]]
