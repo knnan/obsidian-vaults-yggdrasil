@@ -102,12 +102,13 @@
     },
     {
       "id": "faadb2645773550a",
+      "type": "file",
+      "file": "Cors and api restriction.md",
+      "styleAttributes": {},
       "x": -124,
       "y": 560,
       "width": 969,
-      "height": 323,
-      "type": "file",
-      "file": "Cors and api restriction.md"
+      "height": 323
     }
   ],
   "edges": [

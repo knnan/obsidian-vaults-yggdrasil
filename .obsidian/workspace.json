@@ -50,12 +50,14 @@
             "id": "06192a7dee962eef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Techiques for dotfile Mangement.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 40.58030232906308,
+                  "y": -382.1655799031229,
+                  "zoom": 0
+                }
               }
             }
           },
@@ -139,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Techiques for dotfile Mangement.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Techiques for dotfile Mangement.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Techiques for dotfile Mangement.md"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -222,18 +224,19 @@
   },
   "active": "06192a7dee962eef",
   "lastOpenFiles": [
+    "Encryption.md",
+    "Untitled.canvas",
+    "auth flow.canvas",
+    "Techiques for dotfile Mangement.md",
     "lexicographic order.md",
     "Markdown tutorial + obsidian features.md",
     "pcloudy-release-strategy.canvas",
     "python virtual environment.md",
-    "Encryption.md",
     "Commands for a better terminal life.md",
     "Cors and api restriction.md",
-    "auth flow.canvas",
     "pointers in c.md",
     "git bare reposotires.md",
     "Golang resources.md",
-    "Techiques for dotfile Mangement.md",
     "Interview prep.md",
     "array pointers in c.md",
     "Anime websites links.md",
