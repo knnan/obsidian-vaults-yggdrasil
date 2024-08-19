@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "3fb9765f083b1b4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "37b1d015567f7a7d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9d5bd40f05678a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cors and api restriction.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ca50a238e565f124",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Commands for a better terminal life.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db7cf10e0dc9eff4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Encryption.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "06192a7dee962eef",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": -373.61047163486495,
+                  "y": -166.2664230322837,
+                  "zoom": 0
+                }
+              }
+            }
+          },
+          {
+            "id": "39f797ee86a4f4d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pointers in c.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9027de03e561d28e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f07056a17bb78a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f245767949428291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "12901973eb195eac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4f6f0b0122bb143e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9e5894b16c1b66d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b8526c023c211daf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35fed28137b634cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6a922859b7cd3f1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled 1.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dc417516cafc665e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41ac663427e171ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled 1.canvas"
+              }
+            }
+          },
+          {
+            "id": "4e01a98012ba99c4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "2e261aca3328f90c",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "06192a7dee962eef",
+  "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "Encryption.md",
+    "auth flow.canvas",
+    "Techiques for dotfile Mangement.md",
+    "lexicographic order.md",
+    "Markdown tutorial + obsidian features.md",
+    "pcloudy-release-strategy.canvas",
+    "python virtual environment.md",
+    "Commands for a better terminal life.md",
+    "Cors and api restriction.md",
+    "pointers in c.md",
+    "git bare reposotires.md",
+    "Golang resources.md",
+    "Interview prep.md",
+    "array pointers in c.md",
+    "Anime websites links.md",
+    "finite state machines.md",
+    "helo.md",
+    "zsh.md",
+    "Network-traffic-shaping.md",
+    "golang basics.md",
+    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-25 14.23.54.excalidraw.md",
+    "fasd.md",
+    "Excalidraw",
+    "unicode.md",
+    "2024-02-07.md",
+    "2023-02-05.md",
+    "2023-02-14.md",
+    "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
+    "Meta/Attachments/network-shaping-internal-architecture.jpg",
+    "Meta/Attachments/network-internal.png"
+  ]
+}
