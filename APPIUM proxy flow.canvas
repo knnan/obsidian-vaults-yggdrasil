@@ -123,7 +123,7 @@
     {
       "id": "251ec6e9075e3f2f",
       "type": "text",
-      "text": "appium health check",
+      "text": "appium health check (TODO)",
       "styleAttributes": {},
       "x": -497,
       "y": 560,
@@ -147,16 +147,6 @@
       "styleAttributes": {},
       "x": -340,
       "y": 1180,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "72924067525695c2",
-      "type": "text",
-      "text": "update appium session Id",
-      "styleAttributes": {},
-      "x": -700,
-      "y": 810,
       "width": 260,
       "height": 60
     },
@@ -209,6 +199,26 @@
       "y": 522,
       "width": 325,
       "height": 196
+    },
+    {
+      "id": "ce4e4686f5b6e288",
+      "type": "text",
+      "text": "we dont store in redis after appiiun session start request because \nappium might have multiple sesion \nthe first session might have failed but second session might pass.",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 137,
+      "width": 388,
+      "height": 333
+    },
+    {
+      "id": "72924067525695c2",
+      "type": "text",
+      "text": "update appium session Id",
+      "styleAttributes": {},
+      "x": -767,
+      "y": 840,
+      "width": 260,
+      "height": 60
     }
   ],
   "edges": [
@@ -371,6 +381,14 @@
       "fromNode": "1ccc9285848090cb",
       "fromSide": "right",
       "toNode": "6809191bdfa09a96",
+      "toSide": "left"
+    },
+    {
+      "id": "3caf543df690bcd9",
+      "styleAttributes": {},
+      "fromNode": "e0bdf5b8abf6ac96",
+      "fromSide": "right",
+      "toNode": "ce4e4686f5b6e288",
       "toSide": "left"
     }
   ],
