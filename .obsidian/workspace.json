@@ -39,11 +39,11 @@
             "state": {
               "type": "canvas",
               "state": {
-                "file": "APPIUM proxy flow.canvas",
+                "file": "Untitled.canvas",
                 "viewState": {
-                  "x": -26.5,
-                  "y": 853.559991647667,
-                  "zoom": -0.06782415600642988
+                  "x": 0,
+                  "y": 56.726190690994265,
+                  "zoom": 0
                 }
               }
             }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "APPIUM proxy flow.canvas",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "APPIUM proxy flow.canvas",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "APPIUM proxy flow.canvas"
+                "file": "Untitled.canvas"
               }
             }
           },
@@ -211,9 +211,10 @@
   },
   "active": "db7cf10e0dc9eff4",
   "lastOpenFiles": [
+    "APPIUM proxy flow.canvas",
+    "Untitled.canvas",
     "Cors and api restriction.md",
     "Encryption.md",
-    "APPIUM proxy flow.canvas",
     "Untitled 1.canvas",
     "auth flow.canvas",
     "Techiques for dotfile Mangement.md",

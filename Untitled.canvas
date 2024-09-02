@@ -1,0 +1,97 @@
+{
+  "nodes": [
+    {
+      "id": "95ff3734bd7a3ecc",
+      "type": "text",
+      "text": "user",
+      "styleAttributes": {},
+      "x": -296,
+      "y": -341,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3ea6182043c955e1",
+      "type": "text",
+      "text": "paid",
+      "styleAttributes": {},
+      "x": 40,
+      "y": -188,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "26a7d2045ddf06a7",
+      "type": "text",
+      "text": "free",
+      "styleAttributes": {},
+      "x": -556,
+      "y": -158,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2151b0c5213b2af5",
+      "type": "text",
+      "text": "plan : 9000",
+      "styleAttributes": {},
+      "x": -556,
+      "y": 3,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4e8c2956c0989a5f",
+      "type": "text",
+      "text": "every plan execept 9000",
+      "styleAttributes": {},
+      "x": 40,
+      "y": 3,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "a923ab5f45274c41",
+      "styleAttributes": {},
+      "fromNode": "95ff3734bd7a3ecc",
+      "fromSide": "bottom",
+      "toNode": "26a7d2045ddf06a7",
+      "toSide": "top"
+    },
+    {
+      "id": "6ade6d61ec9cbc4c",
+      "styleAttributes": {},
+      "fromNode": "95ff3734bd7a3ecc",
+      "fromSide": "bottom",
+      "toNode": "3ea6182043c955e1",
+      "toSide": "top"
+    },
+    {
+      "id": "e6f116b8b5dbfa1c",
+      "styleAttributes": {},
+      "fromNode": "26a7d2045ddf06a7",
+      "fromSide": "bottom",
+      "toNode": "2151b0c5213b2af5",
+      "toSide": "top"
+    },
+    {
+      "id": "a723713a4d0dc487",
+      "styleAttributes": {},
+      "fromNode": "3ea6182043c955e1",
+      "fromSide": "bottom",
+      "toNode": "4e8c2956c0989a5f",
+      "toSide": "top"
+    },
+    {
+      "id": "782b5189932b1b22",
+      "styleAttributes": {},
+      "fromNode": "2151b0c5213b2af5",
+      "fromSide": "bottom",
+      "toNode": "21fcdc19526e928b",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}
