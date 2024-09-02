@@ -1,96 +1,167 @@
 {
   "nodes": [
     {
-      "id": "95ff3734bd7a3ecc",
+      "id": "d11e2ebf229a614f",
+      "x": -420,
+      "y": -360,
+      "width": 1320,
+      "height": 714,
+      "type": "group",
+      "label": "CLoud"
+    },
+    {
+      "id": "18aa0889c37ab660",
       "type": "text",
-      "text": "user",
+      "text": "pbox\n\n/nfs/raid_node-stg = /opt/raid-data",
       "styleAttributes": {},
-      "x": -296,
-      "y": -341,
-      "width": 260,
+      "x": -400,
+      "y": -140,
+      "width": 340,
+      "height": 280
+    },
+    {
+      "id": "84af0d04a6263194",
+      "type": "text",
+      "text": "3d1",
+      "styleAttributes": {},
+      "x": 740,
+      "y": -84,
+      "width": 80,
       "height": 60
     },
     {
-      "id": "3ea6182043c955e1",
+      "id": "e195e00496e82034",
       "type": "text",
-      "text": "paid",
+      "text": "3d2",
       "styleAttributes": {},
-      "x": 40,
-      "y": -188,
-      "width": 260,
+      "x": 740,
+      "y": 0,
+      "width": 80,
       "height": 60
     },
     {
-      "id": "26a7d2045ddf06a7",
+      "id": "c9d46c1cace3582c",
       "type": "text",
-      "text": "free",
+      "text": "d1",
       "styleAttributes": {},
-      "x": -556,
-      "y": -158,
-      "width": 260,
+      "x": 740,
+      "y": -340,
+      "width": 80,
       "height": 60
     },
     {
-      "id": "2151b0c5213b2af5",
+      "id": "50577051bfa57735",
       "type": "text",
-      "text": "plan : 9000",
+      "text": "d2",
       "styleAttributes": {},
-      "x": -556,
-      "y": 3,
-      "width": 260,
+      "x": 740,
+      "y": -256,
+      "width": 80,
       "height": 60
     },
     {
-      "id": "4e8c2956c0989a5f",
+      "id": "3bb80130741319d7",
       "type": "text",
-      "text": "every plan execept 9000",
+      "text": "3d1",
       "styleAttributes": {},
-      "x": 40,
-      "y": 3,
-      "width": 260,
+      "x": 740,
+      "y": 220,
+      "width": 80,
       "height": 60
+    },
+    {
+      "id": "809a1e0b8729a04c",
+      "type": "text",
+      "text": "3d2",
+      "styleAttributes": {},
+      "x": 740,
+      "y": 304,
+      "width": 80,
+      "height": 60
+    },
+    {
+      "id": "4a211cc7b2f5b5b9",
+      "type": "text",
+      "text": "rbox 2\n\n/nfs/raid_node-stg = /opt/raid-data",
+      "styleAttributes": {},
+      "x": 249,
+      "y": -84,
+      "width": 251,
+      "height": 168
+    },
+    {
+      "id": "d91a16fd4b26ed34",
+      "type": "text",
+      "text": "rbox 1\n\n/nfs/raid_node-stg = /opt/raid-data",
+      "styleAttributes": {},
+      "x": 249,
+      "y": 166,
+      "width": 251,
+      "height": 168
+    },
+    {
+      "id": "50da7741ba90d377",
+      "type": "text",
+      "text": "nfs server\n* /nfs/raid_node-stg\n* /nfs/raid_maincldou\n\n",
+      "styleAttributes": {},
+      "x": -310,
+      "y": 420,
+      "width": 260,
+      "height": 164
+    },
+    {
+      "id": "5d97c6702307aac6",
+      "type": "text",
+      "text": "rbox2\n\n/nfs/raid_node-stg = /opt/raid-data",
+      "styleAttributes": {},
+      "x": 249,
+      "y": -340,
+      "width": 251,
+      "height": 168
+    },
+    {
+      "id": "b3205661afb4ed1e",
+      "type": "text",
+      "text": "control server\n",
+      "styleAttributes": {},
+      "x": 458,
+      "y": 481,
+      "width": 242,
+      "height": 199
     }
   ],
   "edges": [
     {
-      "id": "a923ab5f45274c41",
+      "id": "a353e07d02aa9a76",
       "styleAttributes": {},
-      "fromNode": "95ff3734bd7a3ecc",
-      "fromSide": "bottom",
-      "toNode": "26a7d2045ddf06a7",
-      "toSide": "top"
+      "fromNode": "18aa0889c37ab660",
+      "fromSide": "right",
+      "toNode": "5d97c6702307aac6",
+      "toSide": "left"
     },
     {
-      "id": "6ade6d61ec9cbc4c",
+      "id": "cc1e50025d899eca",
       "styleAttributes": {},
-      "fromNode": "95ff3734bd7a3ecc",
-      "fromSide": "bottom",
-      "toNode": "3ea6182043c955e1",
-      "toSide": "top"
+      "fromNode": "18aa0889c37ab660",
+      "fromSide": "right",
+      "toNode": "4a211cc7b2f5b5b9",
+      "toSide": "left"
     },
     {
-      "id": "e6f116b8b5dbfa1c",
+      "id": "9c3644594c8fb337",
       "styleAttributes": {},
-      "fromNode": "26a7d2045ddf06a7",
-      "fromSide": "bottom",
-      "toNode": "2151b0c5213b2af5",
-      "toSide": "top"
+      "fromNode": "18aa0889c37ab660",
+      "fromSide": "right",
+      "toNode": "d91a16fd4b26ed34",
+      "toSide": "left"
     },
     {
-      "id": "a723713a4d0dc487",
+      "id": "84275722cbfadc2f",
       "styleAttributes": {},
-      "fromNode": "3ea6182043c955e1",
-      "fromSide": "bottom",
-      "toNode": "4e8c2956c0989a5f",
-      "toSide": "top"
-    },
-    {
-      "id": "782b5189932b1b22",
-      "styleAttributes": {},
-      "fromNode": "2151b0c5213b2af5",
-      "fromSide": "bottom",
-      "toNode": "21fcdc19526e928b",
-      "toSide": "top"
+      "fromNode": "b3205661afb4ed1e",
+      "fromSide": "top",
+      "toNode": "d91a16fd4b26ed34",
+      "toSide": "bottom"
     }
   ],
   "metadata": {}
