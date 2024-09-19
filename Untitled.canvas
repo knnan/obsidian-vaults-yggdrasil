@@ -31,26 +31,6 @@
       "height": 280
     },
     {
-      "id": "84af0d04a6263194",
-      "type": "text",
-      "text": "3d1",
-      "styleAttributes": {},
-      "x": 740,
-      "y": -84,
-      "width": 80,
-      "height": 60
-    },
-    {
-      "id": "50577051bfa57735",
-      "type": "text",
-      "text": "d2",
-      "styleAttributes": {},
-      "x": 740,
-      "y": -256,
-      "width": 80,
-      "height": 60
-    },
-    {
       "id": "4a211cc7b2f5b5b9",
       "type": "text",
       "text": "rbox 2\n\n/nfs/raid_node-stg = /opt/raid-data",
@@ -91,16 +71,6 @@
       "height": 199
     },
     {
-      "id": "e195e00496e82034",
-      "type": "text",
-      "text": "3d2",
-      "styleAttributes": {},
-      "x": 740,
-      "y": 0,
-      "width": 80,
-      "height": 60
-    },
-    {
       "id": "3bb80130741319d7",
       "type": "text",
       "text": "3d1",
@@ -129,6 +99,36 @@
       "y": 166,
       "width": 251,
       "height": 168
+    },
+    {
+      "id": "84af0d04a6263194",
+      "type": "text",
+      "text": "3d1",
+      "styleAttributes": {},
+      "x": 740,
+      "y": -84,
+      "width": 80,
+      "height": 60
+    },
+    {
+      "id": "50577051bfa57735",
+      "type": "text",
+      "text": "d2",
+      "styleAttributes": {},
+      "x": 740,
+      "y": -256,
+      "width": 80,
+      "height": 60
+    },
+    {
+      "id": "e195e00496e82034",
+      "type": "text",
+      "text": "3d2",
+      "styleAttributes": {},
+      "x": 740,
+      "y": 0,
+      "width": 80,
+      "height": 60
     }
   ],
   "edges": [

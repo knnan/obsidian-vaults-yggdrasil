@@ -11,12 +11,9 @@
             "id": "e9d5bd40f05678a7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Cors and api restriction.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md"
               }
             }
           },
@@ -37,14 +34,9 @@
             "id": "db7cf10e0dc9eff4",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 264.0702066993713,
-                  "y": -379.478650295734,
-                  "zoom": 0
-                }
+                "file": "Meta/Attachments/network-internal.png"
               }
             }
           },
@@ -128,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Meta/Attachments/network-internal.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.canvas",
+                "file": "Meta/Attachments/network-internal.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.canvas"
+                "file": "Meta/Attachments/network-internal.png"
               }
             }
           },
@@ -211,9 +203,18 @@
   },
   "active": "db7cf10e0dc9eff4",
   "lastOpenFiles": [
-    "Untitled.canvas",
+    "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
+    "Markdown tutorial + obsidian features.md",
     "Untitled 1.canvas",
+    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "zsh.md",
+    "Network-traffic-shaping.md",
+    "lexicographic order.md",
+    "Interview prep.md",
+    "Untitled.canvas",
     "Cors and api restriction.md",
+    "Commands for a better terminal life.md",
+    "pointers in c.md",
     "ds.md",
     "sld.md",
     "sld_tmp.html",
@@ -223,28 +224,19 @@
     "Encryption.md",
     "auth flow.canvas",
     "Techiques for dotfile Mangement.md",
-    "lexicographic order.md",
-    "Markdown tutorial + obsidian features.md",
     "pcloudy-release-strategy.canvas",
     "python virtual environment.md",
-    "Commands for a better terminal life.md",
-    "pointers in c.md",
     "git bare reposotires.md",
     "Golang resources.md",
-    "Interview prep.md",
     "array pointers in c.md",
     "Anime websites links.md",
     "finite state machines.md",
     "helo.md",
-    "zsh.md",
-    "Network-traffic-shaping.md",
     "golang basics.md",
-    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Excalidraw/Drawing 2024-07-25 14.23.54.excalidraw.md",
     "fasd.md",
     "Excalidraw",
     "unicode.md",
-    "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
     "Meta/Attachments/network-internal.png"
   ]
