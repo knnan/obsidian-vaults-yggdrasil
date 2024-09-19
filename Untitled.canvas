@@ -41,16 +41,6 @@
       "height": 168
     },
     {
-      "id": "50da7741ba90d377",
-      "type": "text",
-      "text": "nfs server\n* /nfs/raid_node-stg\n* /nfs/raid_maincldou\n\n",
-      "styleAttributes": {},
-      "x": -310,
-      "y": 420,
-      "width": 260,
-      "height": 164
-    },
-    {
       "id": "5d97c6702307aac6",
       "type": "text",
       "text": "rbox2\n\n/nfs/raid_node-stg = /opt/raid-data",
@@ -61,32 +51,12 @@
       "height": 168
     },
     {
-      "id": "b3205661afb4ed1e",
-      "type": "text",
-      "text": "control server\n",
-      "styleAttributes": {},
-      "x": 458,
-      "y": 481,
-      "width": 242,
-      "height": 199
-    },
-    {
       "id": "3bb80130741319d7",
       "type": "text",
       "text": "3d1",
       "styleAttributes": {},
       "x": 740,
       "y": 220,
-      "width": 80,
-      "height": 60
-    },
-    {
-      "id": "809a1e0b8729a04c",
-      "type": "text",
-      "text": "3d2",
-      "styleAttributes": {},
-      "x": 740,
-      "y": 304,
       "width": 80,
       "height": 60
     },
@@ -127,6 +97,36 @@
       "styleAttributes": {},
       "x": 740,
       "y": 0,
+      "width": 80,
+      "height": 60
+    },
+    {
+      "id": "50da7741ba90d377",
+      "type": "text",
+      "text": "nfs server\n* /nfs/raid_node-stg\n* /nfs/raid_maincldou\n\n",
+      "styleAttributes": {},
+      "x": -310,
+      "y": 420,
+      "width": 260,
+      "height": 164
+    },
+    {
+      "id": "b3205661afb4ed1e",
+      "type": "text",
+      "text": "control server\n",
+      "styleAttributes": {},
+      "x": 458,
+      "y": 481,
+      "width": 242,
+      "height": 199
+    },
+    {
+      "id": "809a1e0b8729a04c",
+      "type": "text",
+      "text": "3d2",
+      "styleAttributes": {},
+      "x": 740,
+      "y": 304,
       "width": 80,
       "height": 60
     }

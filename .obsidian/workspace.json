@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e9d5bd40f05678a7",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md"
-              }
-            }
-          },
-          {
             "id": "ca50a238e565f124",
             "type": "leaf",
             "state": {
@@ -34,9 +24,12 @@
             "id": "db7cf10e0dc9eff4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Meta/Attachments/network-internal.png"
+                "file": "zsh.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -46,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pointers in c.md",
+                "file": "Encryption.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -120,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meta/Attachments/network-internal.png",
+                "file": "Encryption.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meta/Attachments/network-internal.png",
+                "file": "Encryption.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meta/Attachments/network-internal.png"
+                "file": "Encryption.md"
               }
             }
           },
@@ -201,43 +194,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db7cf10e0dc9eff4",
+  "active": "39f797ee86a4f4d5",
   "lastOpenFiles": [
-    "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
-    "Markdown tutorial + obsidian features.md",
-    "Untitled 1.canvas",
-    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
-    "zsh.md",
+    "pcloudy-release-strategy.canvas",
     "Network-traffic-shaping.md",
     "lexicographic order.md",
-    "Interview prep.md",
+    "zsh.md",
+    "Untitled 1.canvas",
     "Untitled.canvas",
-    "Cors and api restriction.md",
-    "Commands for a better terminal life.md",
+    "finite state machines.md",
+    "Untitled.md",
+    "pharma.md",
     "pointers in c.md",
-    "ds.md",
+    "Commands for a better terminal life.md",
+    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "Interview prep.md",
+    "Meta/Attachments/network-shaping-internal-architecture.jpg",
+    "auth flow.canvas",
+    "git bare reposotires.md",
+    "Cors and api restriction.md",
+    "golang basics.md",
+    "Markdown tutorial + obsidian features.md",
     "sld.md",
+    "Techiques for dotfile Mangement.md",
+    "Meta/Attachments/network-internal.png",
+    "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
+    "ds.md",
     "sld_tmp.html",
     "sld.pdf",
     "apple pharma.md",
     "APPIUM proxy flow.canvas",
     "Encryption.md",
-    "auth flow.canvas",
-    "Techiques for dotfile Mangement.md",
-    "pcloudy-release-strategy.canvas",
     "python virtual environment.md",
-    "git bare reposotires.md",
     "Golang resources.md",
     "array pointers in c.md",
     "Anime websites links.md",
-    "finite state machines.md",
     "helo.md",
-    "golang basics.md",
     "Excalidraw/Drawing 2024-07-25 14.23.54.excalidraw.md",
-    "fasd.md",
-    "Excalidraw",
-    "unicode.md",
-    "Meta/Attachments/network-shaping-internal-architecture.jpg",
-    "Meta/Attachments/network-internal.png"
+    "Excalidraw"
   ]
 }
