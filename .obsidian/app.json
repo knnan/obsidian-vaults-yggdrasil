@@ -5,9 +5,9 @@
   "attachmentFolderPath": "Meta/Attachments/",
   "showUnsupportedFiles": true,
   "pdfExportSettings": {
-    "pageSize": "A4",
+    "pageSize": "Legal",
     "landscape": false,
-    "margin": "2",
+    "margin": "1",
     "downscalePercent": 100
   }
 }

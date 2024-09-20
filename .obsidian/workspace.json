@@ -39,10 +39,10 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encryption.md",
+                "file": "apple pharma.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -97,7 +97,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -113,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encryption.md",
+                "file": "apple pharma.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encryption.md",
+                "file": "apple pharma.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encryption.md"
+                "file": "apple pharma.md"
               }
             }
           },
@@ -196,6 +197,7 @@
   },
   "active": "39f797ee86a4f4d5",
   "lastOpenFiles": [
+    "Encryption.md",
     "pcloudy-release-strategy.canvas",
     "Network-traffic-shaping.md",
     "lexicographic order.md",
@@ -224,7 +226,6 @@
     "sld.pdf",
     "apple pharma.md",
     "APPIUM proxy flow.canvas",
-    "Encryption.md",
     "python virtual environment.md",
     "Golang resources.md",
     "array pointers in c.md",

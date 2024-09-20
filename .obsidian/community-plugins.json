@@ -12,5 +12,6 @@
   "obsidian-excalidraw-plugin",
   "advanced-canvas",
   "canvas-mindmap",
-  "optimize-canvas-connections"
+  "optimize-canvas-connections",
+  "better-export-pdf"
 ]
