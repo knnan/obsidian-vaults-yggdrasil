@@ -1,7 +1,7 @@
 
 pyenv and poetry 
 ex
-1.
+## Method 1: Everything including the kitchen sink
 
 ```bash
 mkdir -p ~/dev/my-project 
@@ -17,7 +17,7 @@ echo 'PYTHONUNBUFFERED=1\nPYTHONDONTWRITEBYTECODE=1\nDEBUG=1\nLOCAL=1" > .env.lo
 git init
 ```
 
-2.
+## Method 2 : Minimal use std builtin if possible
 ```bash
 cd /path/to/project 
 pyenv install 3.11.1
@@ -25,8 +25,8 @@ pyenv local 3.11.1
 python -m venv .venv
 . .venv/bin/activate
 ```
-3.
-venv works fine. Never used any other solutions.
+
+ venv works fine. Never used any other solutions.
 
 ```bash
 
@@ -43,3 +43,5 @@ alias vm ="python -m venv venv"
 alias vd="deactivate"
 
 ```
+
+## Method 3: 

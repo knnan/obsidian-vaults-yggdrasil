@@ -34,25 +34,12 @@
             }
           },
           {
-            "id": "39f797ee86a4f4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "apple pharma.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": true
-              }
-            }
-          },
-          {
             "id": "34a7b9d430826fea",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encryption.md",
+                "file": "python virtual environment.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +47,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Encryption.md",
+                "file": "python virtual environment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Encryption.md",
+                "file": "python virtual environment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Encryption.md"
+                "file": "python virtual environment.md"
               }
             }
           },
@@ -209,9 +196,9 @@
   },
   "active": "34a7b9d430826fea",
   "lastOpenFiles": [
-    "Encrypt a folder.md",
-    "Encryption.md",
     "apple pharma.md",
+    "Encryption.md",
+    "Encrypt a folder.md",
     "pcloudy-release-strategy.canvas",
     "Network-traffic-shaping.md",
     "lexicographic order.md",
