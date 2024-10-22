@@ -81,6 +81,46 @@
       "height": 60
     },
     {
+      "id": "e109ac48996f99d3",
+      "type": "text",
+      "text": "appium endoint and details",
+      "styleAttributes": {},
+      "x": -498,
+      "y": 295,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ce4e4686f5b6e288",
+      "type": "text",
+      "text": "we dont store in redis after appiiun session start request because \nappium might have multiple sesion \nthe first session might have failed but second session might pass.",
+      "styleAttributes": {},
+      "x": 200,
+      "y": 137,
+      "width": 388,
+      "height": 333
+    },
+    {
+      "id": "94acec6d4c2a613a",
+      "type": "text",
+      "text": "pass",
+      "styleAttributes": {},
+      "x": -164,
+      "y": 636,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "878b528fb2792787",
+      "type": "text",
+      "text": "send start session requ4est",
+      "styleAttributes": {},
+      "x": -498,
+      "y": 700,
+      "width": 260,
+      "height": 60
+    },
+    {
       "id": "44a60754ac535101",
       "type": "text",
       "text": "on failure return to user",
@@ -121,26 +161,6 @@
       "height": 60
     },
     {
-      "id": "94acec6d4c2a613a",
-      "type": "text",
-      "text": "pass",
-      "styleAttributes": {},
-      "x": -164,
-      "y": 636,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "1ccc9285848090cb",
-      "type": "text",
-      "text": "fail",
-      "styleAttributes": {},
-      "x": -149,
-      "y": 767,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "6809191bdfa09a96",
       "type": "text",
       "text": "* create pr db with fail",
@@ -151,52 +171,12 @@
       "height": 166
     },
     {
-      "id": "878b528fb2792787",
-      "type": "text",
-      "text": "send start session requ4est",
-      "styleAttributes": {},
-      "x": -498,
-      "y": 700,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "2bba6f4f34daba79",
-      "type": "text",
-      "text": "* update appium session id in redis\n* create pr db with in-progress",
-      "styleAttributes": {},
-      "x": 311,
-      "y": 522,
-      "width": 325,
-      "height": 196
-    },
-    {
-      "id": "72924067525695c2",
-      "type": "text",
-      "text": "update appium session Id",
-      "styleAttributes": {},
-      "x": -767,
-      "y": 840,
-      "width": 260,
-      "height": 60
-    },
-    {
       "id": "251ec6e9075e3f2f",
       "type": "text",
       "text": "appium health check (TODO)",
       "styleAttributes": {},
       "x": -497,
       "y": 560,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "e109ac48996f99d3",
-      "type": "text",
-      "text": "appium endoint and details",
-      "styleAttributes": {},
-      "x": -498,
-      "y": 295,
       "width": 260,
       "height": 60
     },
@@ -211,14 +191,34 @@
       "height": 60
     },
     {
-      "id": "ce4e4686f5b6e288",
+      "id": "72924067525695c2",
       "type": "text",
-      "text": "we dont store in redis after appiiun session start request because \nappium might have multiple sesion \nthe first session might have failed but second session might pass.",
+      "text": "update appium session Id",
       "styleAttributes": {},
-      "x": 200,
-      "y": 137,
-      "width": 388,
-      "height": 333
+      "x": -767,
+      "y": 840,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1ccc9285848090cb",
+      "type": "text",
+      "text": "fail",
+      "styleAttributes": {},
+      "x": -149,
+      "y": 767,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2bba6f4f34daba79",
+      "type": "text",
+      "text": "* update appium session id in redis\n* create pr db with in-progress",
+      "styleAttributes": {},
+      "x": 311,
+      "y": 522,
+      "width": 325,
+      "height": 196
     }
   ],
   "edges": [

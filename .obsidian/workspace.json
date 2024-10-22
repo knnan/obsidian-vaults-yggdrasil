@@ -37,12 +37,14 @@
             "id": "34a7b9d430826fea",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "python virtual environment.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": -30,
+                  "y": -406,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -113,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python virtual environment.md",
+                "file": "Untitled 1.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "python virtual environment.md",
+                "file": "Untitled 1.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python virtual environment.md"
+                "file": "Untitled 1.canvas"
               }
             }
           },
@@ -196,15 +198,20 @@
   },
   "active": "34a7b9d430826fea",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Untitled 2.canvas",
+    "APPIUM proxy flow.canvas",
     "apple pharma.md",
+    "auth flow.canvas",
+    "Techiques for dotfile Mangement.md",
+    "Untitled 1.canvas",
+    "python virtual environment.md",
     "Encryption.md",
     "Encrypt a folder.md",
     "pcloudy-release-strategy.canvas",
     "Network-traffic-shaping.md",
     "lexicographic order.md",
     "zsh.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "finite state machines.md",
     "pharma.md",
     "pointers in c.md",
@@ -212,20 +219,16 @@
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Interview prep.md",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
-    "auth flow.canvas",
     "git bare reposotires.md",
     "Cors and api restriction.md",
     "golang basics.md",
     "Markdown tutorial + obsidian features.md",
     "sld.md",
-    "Techiques for dotfile Mangement.md",
     "Meta/Attachments/network-internal.png",
     "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
     "ds.md",
     "sld_tmp.html",
     "sld.pdf",
-    "APPIUM proxy flow.canvas",
-    "python virtual environment.md",
     "Golang resources.md",
     "array pointers in c.md",
     "Anime websites links.md",
