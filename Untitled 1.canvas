@@ -1,83 +1,83 @@
 {
-  "nodes": [
-    {
-      "id": "92936a037154c721",
-      "type": "text",
-      "text": "pr-beta.pcloudy.com",
-      "styleAttributes": {},
-      "x": -540,
-      "y": -300,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "56c3acb8cde1ef87",
-      "type": "text",
-      "text": "pr-dev.pcloudy.com\n\nBACKEND:\n  User ubuntu\n  HostName 3.110.78.53\n\nFRONTEND:\n User ubuntu\n HostName 3.110.201.155\n",
-      "styleAttributes": {},
-      "x": 220,
-      "y": -300,
-      "width": 260,
-      "height": 240
-    },
-    {
-      "id": "d7eff7ad386a84fd",
-      "type": "text",
-      "text": "pr.prod.pcloudy.com\n\nHost pr.prod.frontend\n    HostName 35.154.174.157\n    user ubuntu\n\n\nHost pr.prod.backend\n    HostName 15.207.48.92\n    user ubuntu\n\n",
-      "styleAttributes": {},
-      "x": -160,
-      "y": -300,
-      "width": 260,
-      "height": 240
-    },
-    {
-      "id": "f2f987477ea3f03d",
-      "type": "text",
-      "text": "production",
-      "styleAttributes": {},
-      "x": -352,
-      "y": -752,
-      "width": 260,
-      "height": 60
-    },
-    {
-      "id": "16e412af3505bace",
-      "type": "text",
-      "text": "DEVELOPMENT",
-      "styleAttributes": {},
-      "x": 220,
-      "y": -752,
-      "width": 260,
-      "height": 60
-    }
-  ],
-  "edges": [
-    {
-      "id": "dbfd94fc136af533",
-      "styleAttributes": {},
-      "fromNode": "f2f987477ea3f03d",
-      "fromSide": "bottom",
-      "toNode": "92936a037154c721",
-      "toSide": "top",
-      "label": "OLD PROD"
-    },
-    {
-      "id": "3cf4b5cffc44e31e",
-      "styleAttributes": {},
-      "fromNode": "f2f987477ea3f03d",
-      "fromSide": "bottom",
-      "toNode": "d7eff7ad386a84fd",
-      "toSide": "top",
-      "label": "NEW PROD"
-    },
-    {
-      "id": "ca21f1269df730bd",
-      "styleAttributes": {},
-      "fromNode": "16e412af3505bace",
-      "fromSide": "bottom",
-      "toNode": "56c3acb8cde1ef87",
-      "toSide": "top"
-    }
-  ],
-  "metadata": {}
+	"nodes":[
+		{
+			"id":"92936a037154c721",
+			"type":"text",
+			"text":"pr-beta.pcloudy.com",
+			"styleAttributes":{},
+			"x":-540,
+			"y":-300,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"56c3acb8cde1ef87",
+			"type":"text",
+			"text":"pr-dev.pcloudy.com\n\nBACKEND:\n  User ubuntu\n  HostName 3.110.78.53\n\nFRONTEND:\n User ubuntu\n HostName 3.110.201.155\n",
+			"styleAttributes":{},
+			"x":220,
+			"y":-300,
+			"width":260,
+			"height":240
+		},
+		{
+			"id":"d7eff7ad386a84fd",
+			"type":"text",
+			"text":"pr.prod.pcloudy.com\n\nHost pr.prod.frontend\n    HostName 35.154.174.157\n    user ubuntu\n\n\nHost pr.prod.backend\n    HostName 15.207.48.92\n    user ubuntu\n\n",
+			"styleAttributes":{},
+			"x":-160,
+			"y":-300,
+			"width":260,
+			"height":240
+		},
+		{
+			"id":"f2f987477ea3f03d",
+			"type":"text",
+			"text":"production",
+			"styleAttributes":{},
+			"x":-352,
+			"y":-752,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"16e412af3505bace",
+			"type":"text",
+			"text":"DEVELOPMENT",
+			"styleAttributes":{},
+			"x":220,
+			"y":-752,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"dbfd94fc136af533",
+			"styleAttributes":{},
+			"fromNode":"f2f987477ea3f03d",
+			"fromSide":"bottom",
+			"toNode":"92936a037154c721",
+			"toSide":"top",
+			"label":"OLD PROD"
+		},
+		{
+			"id":"3cf4b5cffc44e31e",
+			"styleAttributes":{},
+			"fromNode":"f2f987477ea3f03d",
+			"fromSide":"bottom",
+			"toNode":"d7eff7ad386a84fd",
+			"toSide":"top",
+			"label":"NEW PROD"
+		},
+		{
+			"id":"ca21f1269df730bd",
+			"styleAttributes":{},
+			"fromNode":"16e412af3505bace",
+			"fromSide":"bottom",
+			"toNode":"56c3acb8cde1ef87",
+			"toSide":"top"
+		}
+	],
+	"metadata":{}
 }
