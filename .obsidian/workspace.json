@@ -83,9 +83,26 @@
               "icon": "lucide-file",
               "title": "Cool websites"
             }
+          },
+          {
+            "id": "9e02dd8e4bf3b889",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 2"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -250,13 +267,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ab32be19e3193f74",
+  "active": "9e02dd8e4bf3b889",
   "lastOpenFiles": [
-    "javscript resouress.md",
-    "Cool websites.md",
-    "Untitled 1.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.md",
+    "Cool websites.md",
+    "javscript resouress.md",
     "APPIUM proxy flow.canvas",
     "apple pharma.md",
     "auth flow.canvas",
@@ -287,8 +305,6 @@
     "sld.pdf",
     "Golang resources.md",
     "array pointers in c.md",
-    "Anime websites links.md",
-    "helo.md",
     "Excalidraw"
   ]
 }
