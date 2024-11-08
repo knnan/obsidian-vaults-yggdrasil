@@ -1,6 +1,6 @@
 1
 
-[](https://superuser.com/posts/182115/timeline)
+[https://superuser.com/posts/182115/timeline](https://superuser.com/posts/182115/timeline)
 
 Quick and easy way is to `tar` and `compress` and then `bcrypt`.
 
