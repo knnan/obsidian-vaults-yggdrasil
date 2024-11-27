@@ -117,6 +117,18 @@
             }
           },
           {
+            "id": "db88edd5504abc99",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-11-27 10.41.40.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-11-27 10.41.40.excalidraw"
+            }
+          },
+          {
             "id": "ba133ab36d904197",
             "type": "leaf",
             "state": {
@@ -137,17 +149,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encrypt a folder.md",
+                "file": "golang basics.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Encrypt a folder"
+              "title": "golang basics"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -312,8 +324,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1e247ebe37e9575",
+  "active": "db88edd5504abc99",
   "lastOpenFiles": [
+    "golang basics.md",
+    "Excalidraw/Drawing 2024-11-27 10.41.40.excalidraw.md",
+    "git bare reposotires.md",
+    "finite state machines.md",
+    "Encrypt a folder.md",
     "Encryption.md",
     "pcloudy-release-strategy.canvas",
     "pointers in c.md",
@@ -322,11 +339,8 @@
     "Markdown tutorial + obsidian features.md",
     "lexicographic order.md",
     "Interview prep.md",
-    "finite state machines.md",
     "javscript resouress.md",
     "Python cheetsheet.md",
-    "golang basics.md",
-    "Encrypt a folder.md",
     "Cors and api restriction.md",
     "array pointers in c.md",
     "apple pharma.md",
@@ -344,7 +358,6 @@
     "pharma.md",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
-    "git bare reposotires.md",
     "sld.md",
     "Meta/Attachments/network-internal.png",
     "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
