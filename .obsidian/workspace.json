@@ -117,18 +117,6 @@
             }
           },
           {
-            "id": "db88edd5504abc99",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-11-27 10.41.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-11-27 10.41.40.excalidraw"
-            }
-          },
-          {
             "id": "ba133ab36d904197",
             "type": "leaf",
             "state": {
@@ -159,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -324,41 +312,41 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "db88edd5504abc99",
+  "active": "2ea18b6781c18ed0",
   "lastOpenFiles": [
+    "Golang resources.md",
+    "lexicographic order.md",
+    "Markdown tutorial + obsidian features.md",
+    "python async.md",
+    "Python cheetsheet.md",
+    "python virtual environment.md",
+    "pcloudy/pr.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.md",
+    "pcloudy/pcloudy rbox -pbox architecture.canvas",
+    "Untitled.md",
+    "git bare reposotires.md",
+    "Techiques for dotfile Mangement.md",
+    "pointers in c.md",
+    "Network-traffic-shaping.md",
+    "pcloudy/pcloudy-release-strategy.canvas",
+    "javscript resouress.md",
+    "Interview prep.md",
+    "pcloudy/Cors and api restriction.md",
+    "Cool websites.md",
+    "Commands for a better terminal life.md",
+    "pcloudy/auth flow.canvas",
+    "pcloudy/APPIUM proxy flow.canvas",
+    "pcloudy",
+    "Anime websites links.md",
     "golang basics.md",
     "Excalidraw/Drawing 2024-11-27 10.41.40.excalidraw.md",
-    "git bare reposotires.md",
     "finite state machines.md",
     "Encrypt a folder.md",
     "Encryption.md",
-    "pcloudy-release-strategy.canvas",
-    "pointers in c.md",
-    "python async.md",
-    "Network-traffic-shaping.md",
-    "Markdown tutorial + obsidian features.md",
-    "lexicographic order.md",
-    "Interview prep.md",
-    "javscript resouress.md",
-    "Python cheetsheet.md",
-    "Cors and api restriction.md",
     "array pointers in c.md",
     "apple pharma.md",
-    "Commands for a better terminal life.md",
-    "python virtual environment.md",
-    "Techiques for dotfile Mangement.md",
-    "Untitled.canvas",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.md",
-    "Cool websites.md",
-    "APPIUM proxy flow.canvas",
-    "auth flow.canvas",
-    "zsh.md",
-    "pharma.md",
-    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
-    "sld.md",
     "Meta/Attachments/network-internal.png",
     "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
     "sld_tmp.html",

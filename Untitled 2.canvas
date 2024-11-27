@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"69c690901bcb6c33","x":-400,"y":100,"width":180,"height":80,"type":"text","text":"Broker 1"},
-		{"id":"1afe9777bddae386","type":"text","text":"Broker 2","x":-20,"y":80,"width":180,"height":80}
-	],
-	"edges":[]
-}
