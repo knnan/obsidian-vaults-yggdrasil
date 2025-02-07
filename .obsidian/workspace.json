@@ -11,10 +11,15 @@
             "id": "6cc78c42f23d32a5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Commands for a better terminal life.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Commands for a better terminal life"
             }
           }
         ]
@@ -184,19 +189,23 @@
   },
   "active": "6cc78c42f23d32a5",
   "lastOpenFiles": [
-    "Interview prep.md",
-    "Commands for a better terminal life.md",
-    "zsh.md",
-    "javscript resouress.md",
     "Cool websites.md",
+    "Encrypt a folder.md",
+    "Encryption.md",
+    "finite state machines.md",
+    "python async.md",
+    "python virtual environment.md",
+    "Python cheetsheet.md",
+    "Network-traffic-shaping.md",
+    "Markdown tutorial + obsidian features.md",
+    "javscript resouress.md",
+    "Interview prep.md",
     "Golang resources.md",
     "git bare reposotires.md",
+    "Commands for a better terminal life.md",
+    "zsh.md",
     "golang basics.md",
     "lexicographic order.md",
-    "Markdown tutorial + obsidian features.md",
-    "python async.md",
-    "Python cheetsheet.md",
-    "python virtual environment.md",
     "pcloudy/pr.canvas",
     "Untitled 2.canvas",
     "Untitled 1.md",
@@ -204,7 +213,6 @@
     "Untitled.md",
     "Techiques for dotfile Mangement.md",
     "pointers in c.md",
-    "Network-traffic-shaping.md",
     "pcloudy/pcloudy-release-strategy.canvas",
     "pcloudy/Cors and api restriction.md",
     "pcloudy/auth flow.canvas",
@@ -212,9 +220,6 @@
     "pcloudy",
     "Anime websites links.md",
     "Excalidraw/Drawing 2024-11-27 10.41.40.excalidraw.md",
-    "finite state machines.md",
-    "Encrypt a folder.md",
-    "Encryption.md",
     "array pointers in c.md",
     "apple pharma.md",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
