@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Commands for a better terminal life.md",
+                "file": "Clippings/How to install and use iostat - Globo.Tech.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Commands for a better terminal life"
+              "title": "How to install and use iostat - Globo.Tech"
             }
           }
         ]
@@ -199,11 +199,15 @@
   },
   "active": "6cc78c42f23d32a5",
   "lastOpenFiles": [
-    "Clippings/How to install and use iostat - Globo.Tech.md",
     "Commands for a better terminal life.md",
-    "Clippings",
+    "array pointers in c.md",
     "Cool websites.md",
     "Encrypt a folder.md",
+    "git bare reposotires.md",
+    "lexicographic order.md",
+    "Clippings/How to install and use iostat - Globo.Tech.md",
+    "Clippings/A Guide to the Zsh Completion with Examples.md",
+    "Clippings",
     "Encryption.md",
     "finite state machines.md",
     "python async.md",
@@ -214,10 +218,8 @@
     "javscript resouress.md",
     "Interview prep.md",
     "Golang resources.md",
-    "git bare reposotires.md",
     "zsh.md",
     "golang basics.md",
-    "lexicographic order.md",
     "pcloudy/pr.canvas",
     "Untitled 2.canvas",
     "Untitled 1.md",
@@ -231,8 +233,6 @@
     "pcloudy/APPIUM proxy flow.canvas",
     "pcloudy",
     "Anime websites links.md",
-    "Excalidraw/Drawing 2024-11-27 10.41.40.excalidraw.md",
-    "array pointers in c.md",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
     "Meta/Attachments/network-internal.png",
     "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
