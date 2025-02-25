@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/How to install and use iostat - Globo.Tech.md",
+                "file": "python virtual environment.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "How to install and use iostat - Globo.Tech"
+              "title": "python virtual environment"
             }
           }
         ]
@@ -199,18 +199,18 @@
   },
   "active": "6cc78c42f23d32a5",
   "lastOpenFiles": [
+    "python async.md",
+    "Clippings/How to install and use iostat - Globo.Tech.md",
     "Commands for a better terminal life.md",
     "array pointers in c.md",
     "Cool websites.md",
     "Encrypt a folder.md",
     "git bare reposotires.md",
     "lexicographic order.md",
-    "Clippings/How to install and use iostat - Globo.Tech.md",
     "Clippings/A Guide to the Zsh Completion with Examples.md",
     "Clippings",
     "Encryption.md",
     "finite state machines.md",
-    "python async.md",
     "python virtual environment.md",
     "Python cheetsheet.md",
     "Network-traffic-shaping.md",

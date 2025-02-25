@@ -9,7 +9,7 @@ description: "This tutorial will show you how to install and use iostat on your 
 tags:
   - "clippings"
 ---
-Posted By: Sep. 07, 2016
+	Posted By: Sep. 07, 2016
 
 ## How to install and use iostat
 
