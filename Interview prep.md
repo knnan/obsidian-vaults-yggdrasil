@@ -18,6 +18,8 @@
 [Dynamic Programming](https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns)*
 
 
+# TakeUForward
+https://takeuforward.org/
 # Neetcode
 
 https://neetcode.io/practice
@@ -27,6 +29,7 @@ https://neetcode.io/practice
 -   [Binary search patterns](https://leetcode.com/discuss/general-discussion/786126/Python-Powerful-Ultimate-Binary-Search-Template.-Solved-many-problems) — using a relatively simple template, you can solve almost every binary search question. The explanations here are well-written. Note, my [Two Sigma interviewer](https://medium.com/@SantalTech/550k-offer-two-sigma-software-engineer-experience-2022-93938470628) wanted me to use Python’s built-in binary search (`bisect.bisect_left`) instead of writing binary search from scratch, so familiarize yourself with that library too.
 -   [Sliding window problems](https://leetcode.com/problems/frequency-of-the-most-frequent-element/solutions/1175088/C++-Maximum-Sliding-Window-Cheatsheet-Template!/) — a collection of sliding window questions and a generalizable approach to solving them.
 -   [This video on binary search](https://www.youtube.com/watch?v=tgVSkMA8joQ) gave me a different perspective on what binary search was doing and helped me understand the concept better.
+
 
 # System Design
 
