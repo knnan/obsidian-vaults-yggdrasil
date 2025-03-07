@@ -904,7 +904,7 @@ https://github.com/creativecreature/pulse
 https://medium.com/@shershnev/layered-architecture-implementation-in-golang-6318a72c1e10
 
   
-
+https://reintech.io/term/understanding-bin-packing-problem
 ---
 
 If you find this notes helpful and want to support me, you can do so by [Buy me a coffee! ☕](https://www.buymeacoffee.com/vbduetsch) it will keep my motivation high and I will be really thankful.**
