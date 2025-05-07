@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Encryption"
             }
+          },
+          {
+            "id": "91839c79228a49e2",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-03-11 14.32.33.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -197,8 +210,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6cc78c42f23d32a5",
+  "active": "91839c79228a49e2",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
     "finite state machines.md",
     "Encryption.md",
     "Golang resources.md",
@@ -232,7 +246,6 @@
     "pcloudy/auth flow.canvas",
     "pcloudy/APPIUM proxy flow.canvas",
     "pcloudy",
-    "Anime websites links.md",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
     "Meta/Attachments/network-internal.png",
     "Meta/Attachments/Screenshot from 2022-11-18 03-09-50.png",
