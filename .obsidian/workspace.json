@@ -42,19 +42,9 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-03-11 14.32.33.excalidraw"
             }
-          },
-          {
-            "id": "b416dc0af45f19ec",
-            "type": "leaf",
-            "state": {
-              "type": "cm-changelog-view",
-              "state": {},
-              "icon": "rocket",
-              "title": "Changelog of Canvas Mindmap"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -111,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5110321044922
+    "width": 200
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -221,7 +211,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b416dc0af45f19ec",
+  "active": "7a8b4645bcf45473",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
     "finite state machines.md",
