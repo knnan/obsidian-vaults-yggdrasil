@@ -2,9 +2,9 @@
   "accentColor": "#7ab479",
   "theme": "obsidian",
   "cssTheme": "",
-  "interfaceFontFamily": "Inter,Roboto,Ubuntu,Monaco,Liberation Mono,Arial,Roboto Mono,DejaVu Sans,Noto Mono,Iosevka",
-  "textFontFamily": "Iosevka,Cousine,Noto Sans,JetBrains Mono,Noto Mono,Roboto,Ubuntu Mono,Ubuntu",
-  "monospaceFontFamily": "Noto Mono",
+  "interfaceFontFamily": "Iosevka Nerd Font Mono,Iosevka,Inter,Roboto,Ubuntu,Monaco,Liberation Mono,Arial,Roboto Mono,DejaVu Sans,Noto Mono",
+  "textFontFamily": "Iosevka Nerd Font Mono,Iosevka,Cousine,Noto Sans,JetBrains Mono,Noto Mono,Roboto,Ubuntu Mono,Ubuntu",
+  "monospaceFontFamily": "Iosevka Nerd Font Mono,Noto Mono",
   "enabledCssSnippets": [
     "canvas-text-align"
   ]

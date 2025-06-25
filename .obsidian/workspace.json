@@ -35,12 +35,24 @@
             "id": "91839c79228a49e2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md"
+                "file": "Golang resources.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-03-11 14.32.33.excalidraw"
+              "icon": "lucide-file",
+              "title": "Golang resources"
             }
           }
         ],
@@ -101,7 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 456.5
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -163,10 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Commands for a better terminal life.md"
+                "file": "Golang resources.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Commands for a better terminal life"
+              "title": "Outline of Golang resources"
             }
           },
           {
@@ -178,18 +193,9 @@
               "icon": "lucide-file",
               "title": "Plugin no longer active"
             }
-          },
-          {
-            "id": "2e261aca3328f90c",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -211,8 +217,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7a8b4645bcf45473",
+  "active": "91839c79228a49e2",
   "lastOpenFiles": [
+    "Encrypt a folder.md",
     "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
     "finite state machines.md",
     "Encryption.md",
@@ -229,7 +236,6 @@
     "Commands for a better terminal life.md",
     "array pointers in c.md",
     "Cool websites.md",
-    "Encrypt a folder.md",
     "git bare reposotires.md",
     "lexicographic order.md",
     "Clippings",
