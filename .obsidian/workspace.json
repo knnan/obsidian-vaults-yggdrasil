@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python virtual environment.md",
+                "file": "Commands for a better terminal life.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "python virtual environment"
+              "title": "Commands for a better terminal life"
             }
           }
         ],
@@ -219,26 +219,26 @@
   },
   "active": "91839c79228a49e2",
   "lastOpenFiles": [
-    "python async.md",
-    "pointers in c.md",
-    "Markdown tutorial + obsidian features.md",
-    "javscript resouress.md",
-    "Golang resources.md",
-    "finite state machines.md",
-    "Encryption.md",
-    "Cool websites.md",
-    "Commands for a better terminal life.md",
     "array pointers in c.md",
     "Anime websites links.md",
+    "Markdown tutorial + obsidian features.md",
+    "Network-traffic-shaping.md",
+    "javscript resouress.md",
+    "Interview prep.md",
+    "Encryption.md",
     "Encrypt a folder.md",
+    "Cool websites.md",
+    "python virtual environment.md",
+    "python async.md",
+    "pointers in c.md",
+    "Golang resources.md",
+    "finite state machines.md",
+    "Commands for a better terminal life.md",
     "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
     "Clippings/A Guide to the Zsh Completion with Examples.md",
     "zsh.md",
-    "python virtual environment.md",
     "Techiques for dotfile Mangement.md",
-    "Network-traffic-shaping.md",
     "Clippings/How to install and use iostat - Globo.Tech.md",
-    "Interview prep.md",
     "git bare reposotires.md",
     "lexicographic order.md",
     "Clippings",
