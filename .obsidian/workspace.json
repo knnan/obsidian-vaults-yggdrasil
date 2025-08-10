@@ -11,52 +11,20 @@
             "id": "6cc78c42f23d32a5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Encryption.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -270,
+                  "y": 20,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "Encryption"
-            }
-          },
-          {
-            "id": "91839c79228a49e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commands for a better terminal life.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Commands for a better terminal life"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -217,38 +185,38 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "91839c79228a49e2",
+  "active": "6cc78c42f23d32a5",
   "lastOpenFiles": [
-    "array pointers in c.md",
     "Anime websites links.md",
-    "Markdown tutorial + obsidian features.md",
-    "Network-traffic-shaping.md",
-    "javscript resouress.md",
-    "Interview prep.md",
-    "Encryption.md",
-    "Encrypt a folder.md",
+    "array pointers in c.md",
     "Cool websites.md",
+    "Encrypt a folder.md",
+    "finite state machines.md",
+    "git bare reposotires.md",
+    "Golang resources.md",
+    "javscript resouress.md",
+    "pointers in c.md",
+    "zsh.md",
+    "Untitled.canvas",
+    "Techiques for dotfile Mangement.md",
     "python virtual environment.md",
     "python async.md",
-    "pointers in c.md",
-    "Golang resources.md",
-    "finite state machines.md",
-    "Commands for a better terminal life.md",
-    "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
-    "Clippings/A Guide to the Zsh Completion with Examples.md",
-    "zsh.md",
-    "Techiques for dotfile Mangement.md",
-    "Clippings/How to install and use iostat - Globo.Tech.md",
-    "git bare reposotires.md",
+    "Network-traffic-shaping.md",
+    "Markdown tutorial + obsidian features.md",
     "lexicographic order.md",
+    "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "Encryption.md",
+    "Commands for a better terminal life.md",
+    "Interview prep.md",
+    "Clippings/A Guide to the Zsh Completion with Examples.md",
+    "Clippings/How to install and use iostat - Globo.Tech.md",
     "Clippings",
     "Python cheetsheet.md",
     "golang basics.md",
     "pcloudy/pr.canvas",
     "Untitled 2.canvas",
-    "Untitled 1.md",
     "pcloudy/pcloudy rbox -pbox architecture.canvas",
-    "Untitled.md",
     "pcloudy/pcloudy-release-strategy.canvas",
     "pcloudy/auth flow.canvas",
     "pcloudy/APPIUM proxy flow.canvas",
