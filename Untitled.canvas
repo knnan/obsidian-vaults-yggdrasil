@@ -23,6 +23,56 @@
       "id": "3f166457634a0741",
       "toNode": "273abd19010bbc1c",
       "toSide": "left"
+    },
+    {
+      "fromNode": "93fceab92b426005",
+      "fromSide": "right",
+      "id": "4a556f87cd1b7de5",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "6ec14c970104975a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "6ec14c970104975a",
+      "fromSide": "right",
+      "id": "13ef9b75da2011cc",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "10510d4647157dab",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "10510d4647157dab",
+      "fromSide": "right",
+      "id": "8c0bfa54d0985047",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "8f91ad6763a1c478",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "8f91ad6763a1c478",
+      "fromSide": "bottom",
+      "id": "ccece82cc3ea9485",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "7f5a364eca9b1ead",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "7f5a364eca9b1ead",
+      "fromSide": "top",
+      "id": "e24e4d733dc77182",
+      "styleAttributes": {
+      },
+      "toFloating": false,
+      "toNode": "93fceab92b426005",
+      "toSide": "bottom"
     }
   ],
   "metadata": {
@@ -84,6 +134,61 @@
       "width": 200,
       "x": 180,
       "y": -150
+    },
+    {
+      "height": 60,
+      "id": "6ec14c970104975a",
+      "styleAttributes": {
+      },
+      "text": "evnt",
+      "type": "text",
+      "width": 260,
+      "x": -850,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "93fceab92b426005",
+      "styleAttributes": {
+      },
+      "text": "ws-server",
+      "type": "text",
+      "width": 260,
+      "x": -1170,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "10510d4647157dab",
+      "styleAttributes": {
+      },
+      "text": "contrller",
+      "type": "text",
+      "width": 260,
+      "x": -530,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "8f91ad6763a1c478",
+      "styleAttributes": {
+      },
+      "text": "handler",
+      "type": "text",
+      "width": 260,
+      "x": -190,
+      "y": 600
+    },
+    {
+      "height": 60,
+      "id": "7f5a364eca9b1ead",
+      "styleAttributes": {
+      },
+      "text": "Init test",
+      "type": "text",
+      "width": 260,
+      "x": -1160,
+      "y": 760
     }
   ]
 }
