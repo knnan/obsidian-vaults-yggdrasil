@@ -107,7 +107,6 @@
   "editor:delete-paragraph": [],
   "editor:insert-link": [],
   "editor:open-link-in-new-leaf": [],
-  "editor:toggle-checklist-status": [],
   "window:zoom-in": [
     {
       "modifiers": [
@@ -123,5 +122,42 @@
       ],
       "key": "-"
     }
-  ]
+  ],
+  "obsidian-editor-shortcuts:joinLines": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "obsidian-editor-shortcuts:selectAllOccurrences": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-editor-shortcuts:addCursorsToSelectionEnds": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "file-explorer:open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "templater-obsidian:insert-templater": [],
+  "editor:toggle-checklist-status": []
 }

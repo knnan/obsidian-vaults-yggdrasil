@@ -7,5 +7,6 @@
   "monospaceFontFamily": "Iosevka Nerd Font Mono,Noto Mono",
   "enabledCssSnippets": [
     "canvas-text-align"
-  ]
+  ],
+  "baseFontSize": 16
 }

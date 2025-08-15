@@ -26,3 +26,10 @@ As mentioned before, `age` also supports encrypting to `ssh-rsa` and `ssh-e
 ```bash
 $ age -R ~/.ssh/id_ed25519.pub secret.txt > secret.txt.age
 ```
+
+**3. Using passphrases**
+	* ***Encrypting**:
+	```bash
+	$ age -p plain.txt > secret.txt.age
+```
+	* Decryption
