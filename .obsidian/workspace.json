@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 456.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -211,10 +212,11 @@
   },
   "active": "93cab4ffc6677b38",
   "lastOpenFiles": [
+    "Terminal Escape sequences.md",
+    "Scratchpad.canvas",
     "Markdown tutorial + obsidian features.md",
     "pcloudy/Music to Downlods.md",
     "pointers in c.md",
-    "Scratchpad.canvas",
     "python async.md",
     "Network-traffic-shaping.md",
     "Encryption.md",
@@ -237,7 +239,6 @@
     "Commands for a better terminal life.md",
     "Clippings/How to install and use iostat - Globo.Tech.md",
     "Clippings",
-    "Python cheetsheet.md",
     "pcloudy/pr.canvas",
     "Untitled 2.canvas",
     "pcloudy/pcloudy rbox -pbox architecture.canvas",
