@@ -32,20 +32,27 @@
             }
           },
           {
-            "id": "93cab4ffc6677b38",
+            "id": "57a7d8bc803c2977",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Scratchpad.canvas",
-                "viewState": {
-                  "x": -180,
-                  "y": 1710,
-                  "zoom": 0
+                "file": "Terminal Escape sequences.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Scratchpad"
+              "icon": "lucide-file",
+              "title": "Terminal Escape sequences"
             }
           }
         ],
@@ -188,12 +195,12 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,34 +217,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "93cab4ffc6677b38",
+  "active": "57a7d8bc803c2977",
   "lastOpenFiles": [
-    "Terminal Escape sequences.md",
+    "Clippings/A Guide to the Zsh Completion with Examples.md",
+    "2025-08-16.md",
+    "Encrypt a folder.md",
+    "Encryption.md",
+    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
     "Scratchpad.canvas",
+    "Excalidraw/Drawing 2025-08-16 22.15.07.excalidraw.md",
+    "Terminal Escape sequences.md",
     "Markdown tutorial + obsidian features.md",
     "pcloudy/Music to Downlods.md",
     "pointers in c.md",
     "python async.md",
     "Network-traffic-shaping.md",
-    "Encryption.md",
     "git bare reposotires.md",
     "javscript resouress.md",
-    "Clippings/A Guide to the Zsh Completion with Examples.md",
     "Interview prep.md",
     "lexicographic order.md",
     "Cool websites.md",
-    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Anime websites links.md",
-    "Encrypt a folder.md",
     "array pointers in c.md",
     "Golang resources.md",
     "finite state machines.md",
     "zsh.md",
     "Techiques for dotfile Mangement.md",
     "python virtual environment.md",
-    "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
     "Commands for a better terminal life.md",
-    "Clippings/How to install and use iostat - Globo.Tech.md",
     "Clippings",
     "pcloudy/pr.canvas",
     "Untitled 2.canvas",
