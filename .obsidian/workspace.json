@@ -37,8 +37,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Escape sequences.md",
-                "mode": "source",
+                "file": "python async.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,11 +52,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Terminal Escape sequences"
+              "title": "python async"
+            }
+          },
+          {
+            "id": "e77364b92541e7fc",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -204,6 +216,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -217,8 +230,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "57a7d8bc803c2977",
+  "active": "e77364b92541e7fc",
   "lastOpenFiles": [
+    "python virtual environment.md",
+    "Terminal Escape sequences.md",
     "Clippings/A Guide to the Zsh Completion with Examples.md",
     "2025-08-16.md",
     "Encrypt a folder.md",
@@ -227,7 +242,6 @@
     "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
     "Scratchpad.canvas",
     "Excalidraw/Drawing 2025-08-16 22.15.07.excalidraw.md",
-    "Terminal Escape sequences.md",
     "Markdown tutorial + obsidian features.md",
     "pcloudy/Music to Downlods.md",
     "pointers in c.md",
@@ -244,7 +258,6 @@
     "finite state machines.md",
     "zsh.md",
     "Techiques for dotfile Mangement.md",
-    "python virtual environment.md",
     "Commands for a better terminal life.md",
     "Clippings",
     "pcloudy/pr.canvas",
