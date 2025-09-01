@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Encryption.md",
-                "mode": "preview",
+                "file": "Network-traffic-shaping.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Encryption"
+              "title": "Network-traffic-shaping"
+            }
+          },
+          {
+            "id": "c0964a64c5f852c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/How to Create Self-Signed Certificates using OpenSSL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to Create Self-Signed Certificates using OpenSSL"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,8 +113,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 456.5
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -193,35 +217,35 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6cc78c42f23d32a5",
+  "active": "c0964a64c5f852c2",
   "lastOpenFiles": [
+    "Terminal Escape sequences.md",
+    "Clippings/How to Create Self-Signed Certificates using OpenSSL.md",
+    "Techiques for dotfile Mangement.md",
+    "Scratchpad.canvas",
+    "python virtual environment.md",
+    "python async.md",
+    "Network-traffic-shaping.md",
+    "Interview prep.md",
+    "finite state machines.md",
+    "Commands for a better terminal life.md",
+    "array pointers in c.md",
+    "Base comparison and test Commands.md",
+    "Encrypt a folder.md",
+    "Encryption.md",
+    "git bare reposotires.md",
+    "zsh.md",
+    "Anime websites links.md",
+    "2025-08-16.md",
     "Clippings/A Guide to the Zsh Completion with Examples.md",
     "2025-08-29.md",
-    "Encryption.md",
-    "python async.md",
-    "python virtual environment.md",
-    "Terminal Escape sequences.md",
-    "2025-08-16.md",
-    "Encrypt a folder.md",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
-    "Scratchpad.canvas",
     "Excalidraw/Drawing 2025-08-16 22.15.07.excalidraw.md",
     "Markdown tutorial + obsidian features.md",
     "pcloudy/Music to Downlods.md",
     "pointers in c.md",
-    "Network-traffic-shaping.md",
-    "git bare reposotires.md",
     "javscript resouress.md",
-    "Interview prep.md",
-    "lexicographic order.md",
-    "Cool websites.md",
-    "Anime websites links.md",
-    "array pointers in c.md",
-    "Golang resources.md",
-    "finite state machines.md",
-    "zsh.md",
-    "Techiques for dotfile Mangement.md",
     "Clippings",
     "pcloudy/pr.canvas",
     "Untitled 2.canvas",

@@ -1,11 +1,12 @@
-1
+# **1. Bcrypt**
 
 [https://superuser.com/posts/182115/timeline](https://superuser.com/posts/182115/timeline)
 
-Quick and easy way is to `tar` and `compress` and then `bcrypt`.
-
-tar cfj safe-archive.tar.bz2 Directory/ 
-bcrypt safe-archive.tar.bz2 
+ Quick and easy way is to `tar` and `compress` and then `bcrypt`.
+```bash
+		tar cfj safe-archive.tar.bz2 Directory/ 
+		bcrypt safe-archive.tar.bz2 
+```
 # will ask you an 8 char password twice to lock it up.
 # But, remember to delete your Directory after this,
 rm -rf Directory/ 

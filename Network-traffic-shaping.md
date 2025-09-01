@@ -315,13 +315,9 @@ tc qdisc add dev eno2 root handle 1:0 htb default 30
 # tc qdisc add dev eno2 parent 1:30 handle 31 fq_codel
 
 tc class add dev eno2 parent 1: classid 1:1 htb rate 5mbit
-
 tc class add dev eno2 parent 1: classid 1:2 htb rate 5kbit
-
 tc class add dev eno2 parent 1: classid 1:30 htb rate 100mbit
-
 tc filter add dev eno2 parent 1:0 protocol ip prio 1 u32 match ip dst 192.168.1.55/32 flowid 1:1
-
 tc filter add dev eno2 parent 1:0 protocol ip prio 1 u32 match ip dst 192.168.1.55/32 flowid 1:2
 
   
@@ -338,28 +334,16 @@ tc filter add dev ifb0 parent 1:0 protocol ip prio 1 u32 match ip src 192.168.1.
   
 
 modprobe ifb
-
-  
-
 ip link add name ino2 type ifb
-
 ip link set ino2 up
 
-  
-  
-
 tc qdisc add dev ino2 root handle 1: htb default 30
-
 tc class add dev ino2 parent 1: classid 1:2 htb rate 1mbit
-
 tc class add dev ino2 parent 1: classid 1:30 htb rate 100mbit
 
   
 
 tc filter add dev ino2 parent 1: protocol ip prio 1 u32 match ip src 192.168.1.55/32 flowid 1:2
-
-  
-  
 
 tc filter add dev eno2 parent ffff: u32 match u32 0 0 action mirred egress redirect dev ifb0
 
