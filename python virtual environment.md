@@ -34,14 +34,19 @@ python -m venv venv
 
 ```
 
-Got some bash alias to do this even faster:
+- Got some bash alias to do this even faster:
+	
+	```bash
+	
+	alias vm ="python -m venv venv"
+	
+	alias vd="deactivate"
+	
+	```
 
-```bash
-
-alias vm ="python -m venv venv"
-
-alias vd="deactivate"
-
-```
-
-## Method 3: 
+# Python Project setup 
+- hello:
+	- this:
+		```bash
+		sleep 1
+		```

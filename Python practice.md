@@ -1,0 +1,3 @@
+- [ ] setup project
+	- [ ] setup **`Pyenv`**
+	- [ ] setup **`Poetry`**
