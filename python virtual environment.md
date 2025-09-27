@@ -34,7 +34,7 @@ python -m venv venv
 
 ```
 
-- Got some bash alias to do this even faster:
+Got some bash alias to do this even faster:
 	
 	```bash
 	

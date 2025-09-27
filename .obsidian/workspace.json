@@ -13,39 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python virtual environment.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "python virtual environment"
-            }
-          }
-        ]
-      },
-      {
-        "id": "07006d28fc8a2a76",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1eab52b931b0ace8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python virtual environment.md",
+                "file": "python async.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -58,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "python virtual environment"
+              "title": "python async"
             }
           }
         ]
@@ -224,15 +194,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1eab52b931b0ace8",
+  "active": "768b53453e9c7deb",
   "lastOpenFiles": [
+    "python virtual environment.md",
+    "Clippings/How to Create Self-Signed Certificates using OpenSSL.md",
     "Python practice.md",
     "Network-traffic-shaping.md",
-    "Clippings/How to Create Self-Signed Certificates using OpenSSL.md",
     "Terminal Escape sequences.md",
     "Techiques for dotfile Mangement.md",
     "Scratchpad.canvas",
-    "python virtual environment.md",
     "python async.md",
     "Interview prep.md",
     "finite state machines.md",
