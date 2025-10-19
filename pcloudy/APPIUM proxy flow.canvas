@@ -1,396 +1,441 @@
 {
-	"nodes":[
-		{
-			"id":"6d224cf3f342ef8b",
-			"type":"group",
-			"styleAttributes":{},
-			"x":-538,
-			"y":-168,
-			"width":339,
-			"height":688,
-			"label":" getAppium"
-		},
-		{
-			"id":"27324cf8304786cd",
-			"type":"text",
-			"text":"fetch matching and devices(device cloud)\n\n\nand book device\nget appium endpoint",
-			"styleAttributes":{},
-			"x":-518,
-			"y":0,
-			"width":299,
-			"height":200
-		},
-		{
-			"id":"67910d9064a8be18",
-			"type":"text",
-			"text":"FITER",
-			"styleAttributes":{},
-			"x":-499,
-			"y":-148,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1c19d74d0a6360fb",
-			"type":"text",
-			"text":"user Requesst",
-			"styleAttributes":{},
-			"x":-499,
-			"y":-280,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"b73bf3e9d5b64ef7",
-			"type":"text",
-			"text":"apppium",
-			"styleAttributes":{},
-			"x":-35,
-			"y":-473,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2b0af0e0cc45625a",
-			"type":"text",
-			"text":"session 1",
-			"styleAttributes":{},
-			"x":-180,
-			"y":-327,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2465c62ea60778b4",
-			"type":"text",
-			"text":"session 2",
-			"styleAttributes":{},
-			"x":140,
-			"y":-327,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"9c6dda4dacb82eb1",
-			"type":"text",
-			"text":"DEVICE A",
-			"styleAttributes":{},
-			"x":-38,
-			"y":-599,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"e109ac48996f99d3",
-			"type":"text",
-			"text":"appium endoint and details",
-			"styleAttributes":{},
-			"x":-498,
-			"y":295,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"ce4e4686f5b6e288",
-			"type":"text",
-			"text":"we dont store in redis after appiiun session start request because \nappium might have multiple sesion \nthe first session might have failed but second session might pass.",
-			"styleAttributes":{},
-			"x":200,
-			"y":137,
-			"width":388,
-			"height":333
-		},
-		{
-			"id":"94acec6d4c2a613a",
-			"type":"text",
-			"text":"pass",
-			"styleAttributes":{},
-			"x":-164,
-			"y":636,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"878b528fb2792787",
-			"type":"text",
-			"text":"send start session requ4est",
-			"styleAttributes":{},
-			"x":-498,
-			"y":700,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"44a60754ac535101",
-			"type":"text",
-			"text":"on failure return to user",
-			"styleAttributes":{},
-			"x":-160,
-			"y":840,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"5940e3f37355757a",
-			"type":"text",
-			"text":"PR DB ENTRY",
-			"styleAttributes":{},
-			"x":-507,
-			"y":920,
-			"width":281,
-			"height":60
-		},
-		{
-			"id":"2180dc94e6dd9a50",
-			"type":"text",
-			"text":"update redis with pr details",
-			"styleAttributes":{},
-			"x":-628,
-			"y":1180,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1a21d740170f0779",
-			"type":"text",
-			"text":"logcoller init",
-			"styleAttributes":{},
-			"x":-340,
-			"y":1180,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"6809191bdfa09a96",
-			"type":"text",
-			"text":"* create pr db with fail",
-			"styleAttributes":{},
-			"x":301,
-			"y":814,
-			"width":346,
-			"height":166
-		},
-		{
-			"id":"251ec6e9075e3f2f",
-			"type":"text",
-			"text":"appium health check (TODO)",
-			"styleAttributes":{},
-			"x":-497,
-			"y":560,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"e0bdf5b8abf6ac96",
-			"type":"text",
-			"text":"REDIS",
-			"styleAttributes":{},
-			"x":-497,
-			"y":440,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"72924067525695c2",
-			"type":"text",
-			"text":"update appium session Id",
-			"styleAttributes":{},
-			"x":-767,
-			"y":840,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"1ccc9285848090cb",
-			"type":"text",
-			"text":"fail",
-			"styleAttributes":{},
-			"x":-149,
-			"y":767,
-			"width":260,
-			"height":60
-		},
-		{
-			"id":"2bba6f4f34daba79",
-			"type":"text",
-			"text":"* update appium session id in redis\n* create pr db with in-progress",
-			"styleAttributes":{},
-			"x":311,
-			"y":522,
-			"width":325,
-			"height":196
-		}
-	],
-	"edges":[
-		{
-			"id":"85535465c260afc1",
-			"styleAttributes":{},
-			"fromNode":"1c19d74d0a6360fb",
-			"fromSide":"bottom",
-			"toNode":"67910d9064a8be18",
-			"toSide":"top"
-		},
-		{
-			"id":"475db71bb575d564",
-			"styleAttributes":{},
-			"fromNode":"67910d9064a8be18",
-			"fromSide":"bottom",
-			"toNode":"27324cf8304786cd",
-			"toSide":"top",
-			"label":"check redis return found"
-		},
-		{
-			"id":"69338d07e2ccc83e",
-			"styleAttributes":{},
-			"fromNode":"27324cf8304786cd",
-			"fromSide":"bottom",
-			"toNode":"e109ac48996f99d3",
-			"toSide":"top"
-		},
-		{
-			"id":"145ed9f4db727fa3",
-			"styleAttributes":{},
-			"fromNode":"5940e3f37355757a",
-			"fromSide":"bottom",
-			"toNode":"2180dc94e6dd9a50",
-			"toSide":"top"
-		},
-		{
-			"id":"ffcf6c7274dd14d0",
-			"styleAttributes":{},
-			"fromNode":"e109ac48996f99d3",
-			"fromSide":"bottom",
-			"toNode":"e0bdf5b8abf6ac96",
-			"toSide":"top"
-		},
-		{
-			"id":"9de466393a6ef2d2",
-			"styleAttributes":{},
-			"fromNode":"b73bf3e9d5b64ef7",
-			"fromSide":"bottom",
-			"toNode":"2b0af0e0cc45625a",
-			"toSide":"top"
-		},
-		{
-			"id":"0f8f01fabb5ac6f0",
-			"styleAttributes":{},
-			"fromNode":"b73bf3e9d5b64ef7",
-			"fromSide":"bottom",
-			"toNode":"2465c62ea60778b4",
-			"toSide":"top"
-		},
-		{
-			"id":"fde7b4c13ddc9816",
-			"styleAttributes":{},
-			"fromNode":"b73bf3e9d5b64ef7",
-			"fromSide":"top",
-			"toNode":"9c6dda4dacb82eb1",
-			"toSide":"bottom"
-		},
-		{
-			"id":"fda43646c8dae703",
-			"styleAttributes":{},
-			"fromNode":"2b0af0e0cc45625a",
-			"fromSide":"bottom",
-			"toNode":"e0bdf5b8abf6ac96",
-			"toSide":"right"
-		},
-		{
-			"id":"8bc5e2b933501976",
-			"styleAttributes":{},
-			"fromNode":"878b528fb2792787",
-			"fromSide":"bottom",
-			"toNode":"44a60754ac535101",
-			"toSide":"left"
-		},
-		{
-			"id":"b2f61ef3bba6fc10",
-			"styleAttributes":{},
-			"fromNode":"44a60754ac535101",
-			"fromSide":"right",
-			"toNode":"2b0af0e0cc45625a",
-			"toSide":"bottom"
-		},
-		{
-			"id":"337cfbc5e443dbb1",
-			"styleAttributes":{},
-			"fromNode":"e0bdf5b8abf6ac96",
-			"fromSide":"bottom",
-			"toNode":"251ec6e9075e3f2f",
-			"toSide":"top"
-		},
-		{
-			"id":"8be7aeed3256f85e",
-			"styleAttributes":{},
-			"fromNode":"251ec6e9075e3f2f",
-			"fromSide":"bottom",
-			"toNode":"878b528fb2792787",
-			"toSide":"top"
-		},
-		{
-			"id":"3db2aa7fd2fa851f",
-			"styleAttributes":{},
-			"fromNode":"5940e3f37355757a",
-			"fromSide":"bottom",
-			"toNode":"1a21d740170f0779",
-			"toSide":"top"
-		},
-		{
-			"id":"02d856d748994b6c",
-			"styleAttributes":{},
-			"fromNode":"878b528fb2792787",
-			"fromSide":"bottom",
-			"toNode":"72924067525695c2",
-			"toSide":"top"
-		},
-		{
-			"id":"c6c2149e8a6dda37",
-			"styleAttributes":{},
-			"fromNode":"72924067525695c2",
-			"fromSide":"bottom",
-			"toNode":"5940e3f37355757a",
-			"toSide":"top"
-		},
-		{
-			"id":"cc8e96e075fea139",
-			"styleAttributes":{},
-			"fromNode":"878b528fb2792787",
-			"fromSide":"right",
-			"toNode":"94acec6d4c2a613a",
-			"toSide":"left"
-		},
-		{
-			"id":"b23328a42cc57d19",
-			"styleAttributes":{},
-			"fromNode":"878b528fb2792787",
-			"fromSide":"right",
-			"toNode":"1ccc9285848090cb",
-			"toSide":"left"
-		},
-		{
-			"id":"1c3dbbfef6e6a10d",
-			"styleAttributes":{},
-			"fromNode":"94acec6d4c2a613a",
-			"fromSide":"right",
-			"toNode":"2bba6f4f34daba79",
-			"toSide":"left"
-		},
-		{
-			"id":"ead9b71532702625",
-			"styleAttributes":{},
-			"fromNode":"1ccc9285848090cb",
-			"fromSide":"right",
-			"toNode":"6809191bdfa09a96",
-			"toSide":"left"
-		},
-		{
-			"id":"3caf543df690bcd9",
-			"styleAttributes":{},
-			"fromNode":"e0bdf5b8abf6ac96",
-			"fromSide":"right",
-			"toNode":"ce4e4686f5b6e288",
-			"toSide":"left"
-		}
-	],
-	"metadata":{}
+  "edges": [
+    {
+      "fromNode": "1c19d74d0a6360fb",
+      "fromSide": "bottom",
+      "id": "85535465c260afc1",
+      "styleAttributes": {
+      },
+      "toNode": "67910d9064a8be18",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "67910d9064a8be18",
+      "fromSide": "bottom",
+      "id": "475db71bb575d564",
+      "label": "check redis return found",
+      "styleAttributes": {
+      },
+      "toNode": "27324cf8304786cd",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "27324cf8304786cd",
+      "fromSide": "bottom",
+      "id": "69338d07e2ccc83e",
+      "styleAttributes": {
+      },
+      "toNode": "e109ac48996f99d3",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5940e3f37355757a",
+      "fromSide": "bottom",
+      "id": "145ed9f4db727fa3",
+      "styleAttributes": {
+      },
+      "toNode": "2180dc94e6dd9a50",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e109ac48996f99d3",
+      "fromSide": "bottom",
+      "id": "ffcf6c7274dd14d0",
+      "styleAttributes": {
+      },
+      "toNode": "e0bdf5b8abf6ac96",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b73bf3e9d5b64ef7",
+      "fromSide": "bottom",
+      "id": "9de466393a6ef2d2",
+      "styleAttributes": {
+      },
+      "toNode": "2b0af0e0cc45625a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b73bf3e9d5b64ef7",
+      "fromSide": "bottom",
+      "id": "0f8f01fabb5ac6f0",
+      "styleAttributes": {
+      },
+      "toNode": "2465c62ea60778b4",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "b73bf3e9d5b64ef7",
+      "fromSide": "top",
+      "id": "fde7b4c13ddc9816",
+      "styleAttributes": {
+      },
+      "toNode": "9c6dda4dacb82eb1",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "2b0af0e0cc45625a",
+      "fromSide": "bottom",
+      "id": "fda43646c8dae703",
+      "styleAttributes": {
+      },
+      "toNode": "e0bdf5b8abf6ac96",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "878b528fb2792787",
+      "fromSide": "bottom",
+      "id": "8bc5e2b933501976",
+      "styleAttributes": {
+      },
+      "toNode": "44a60754ac535101",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "44a60754ac535101",
+      "fromSide": "right",
+      "id": "b2f61ef3bba6fc10",
+      "styleAttributes": {
+      },
+      "toNode": "2b0af0e0cc45625a",
+      "toSide": "bottom"
+    },
+    {
+      "fromNode": "e0bdf5b8abf6ac96",
+      "fromSide": "bottom",
+      "id": "337cfbc5e443dbb1",
+      "styleAttributes": {
+      },
+      "toNode": "251ec6e9075e3f2f",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "251ec6e9075e3f2f",
+      "fromSide": "bottom",
+      "id": "8be7aeed3256f85e",
+      "styleAttributes": {
+      },
+      "toNode": "878b528fb2792787",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "5940e3f37355757a",
+      "fromSide": "bottom",
+      "id": "3db2aa7fd2fa851f",
+      "styleAttributes": {
+      },
+      "toNode": "1a21d740170f0779",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "878b528fb2792787",
+      "fromSide": "bottom",
+      "id": "02d856d748994b6c",
+      "styleAttributes": {
+      },
+      "toNode": "72924067525695c2",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "72924067525695c2",
+      "fromSide": "bottom",
+      "id": "c6c2149e8a6dda37",
+      "styleAttributes": {
+      },
+      "toNode": "5940e3f37355757a",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "878b528fb2792787",
+      "fromSide": "right",
+      "id": "cc8e96e075fea139",
+      "styleAttributes": {
+      },
+      "toNode": "94acec6d4c2a613a",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "878b528fb2792787",
+      "fromSide": "right",
+      "id": "b23328a42cc57d19",
+      "styleAttributes": {
+      },
+      "toNode": "1ccc9285848090cb",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "94acec6d4c2a613a",
+      "fromSide": "right",
+      "id": "1c3dbbfef6e6a10d",
+      "styleAttributes": {
+      },
+      "toNode": "2bba6f4f34daba79",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "1ccc9285848090cb",
+      "fromSide": "right",
+      "id": "ead9b71532702625",
+      "styleAttributes": {
+      },
+      "toNode": "6809191bdfa09a96",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "e0bdf5b8abf6ac96",
+      "fromSide": "right",
+      "id": "3caf543df690bcd9",
+      "styleAttributes": {
+      },
+      "toNode": "ce4e4686f5b6e288",
+      "toSide": "left"
+    }
+  ],
+  "metadata": {
+    "version": "1.0-1.0"
+  },
+  "nodes": [
+    {
+      "height": 688,
+      "id": "6d224cf3f342ef8b",
+      "label": " getAppium",
+      "styleAttributes": {
+      },
+      "type": "group",
+      "width": 339,
+      "x": -538,
+      "y": -168
+    },
+    {
+      "height": 200,
+      "id": "27324cf8304786cd",
+      "styleAttributes": {
+      },
+      "text": "fetch matching and devices(device cloud)\n\n\nand book device\nget appium endpoint",
+      "type": "text",
+      "width": 299,
+      "x": -518,
+      "y": 0
+    },
+    {
+      "height": 60,
+      "id": "67910d9064a8be18",
+      "styleAttributes": {
+      },
+      "text": "FITER",
+      "type": "text",
+      "width": 260,
+      "x": -499,
+      "y": -148
+    },
+    {
+      "height": 60,
+      "id": "1c19d74d0a6360fb",
+      "styleAttributes": {
+      },
+      "text": "user Requesst",
+      "type": "text",
+      "width": 260,
+      "x": -499,
+      "y": -280
+    },
+    {
+      "height": 60,
+      "id": "b73bf3e9d5b64ef7",
+      "styleAttributes": {
+      },
+      "text": "apppium",
+      "type": "text",
+      "width": 260,
+      "x": -35,
+      "y": -473
+    },
+    {
+      "height": 60,
+      "id": "2b0af0e0cc45625a",
+      "styleAttributes": {
+      },
+      "text": "session 1",
+      "type": "text",
+      "width": 260,
+      "x": -180,
+      "y": -327
+    },
+    {
+      "height": 60,
+      "id": "9c6dda4dacb82eb1",
+      "styleAttributes": {
+      },
+      "text": "DEVICE A",
+      "type": "text",
+      "width": 260,
+      "x": -38,
+      "y": -599
+    },
+    {
+      "height": 60,
+      "id": "e109ac48996f99d3",
+      "styleAttributes": {
+      },
+      "text": "appium endoint and details",
+      "type": "text",
+      "width": 260,
+      "x": -498,
+      "y": 295
+    },
+    {
+      "height": 60,
+      "id": "251ec6e9075e3f2f",
+      "styleAttributes": {
+      },
+      "text": "appium health check (TODO)",
+      "type": "text",
+      "width": 260,
+      "x": -497,
+      "y": 560
+    },
+    {
+      "height": 60,
+      "id": "e0bdf5b8abf6ac96",
+      "styleAttributes": {
+      },
+      "text": "REDIS",
+      "type": "text",
+      "width": 260,
+      "x": -497,
+      "y": 440
+    },
+    {
+      "height": 60,
+      "id": "2465c62ea60778b4",
+      "styleAttributes": {
+      },
+      "text": "session 2",
+      "type": "text",
+      "width": 260,
+      "x": 140,
+      "y": -327
+    },
+    {
+      "height": 333,
+      "id": "ce4e4686f5b6e288",
+      "styleAttributes": {
+      },
+      "text": "we dont store in redis after appiiun session start request because \nappium might have multiple sesion \nthe first session might have failed but second session might pass.",
+      "type": "text",
+      "width": 388,
+      "x": 200,
+      "y": 137
+    },
+    {
+      "height": 60,
+      "id": "94acec6d4c2a613a",
+      "styleAttributes": {
+      },
+      "text": "pass",
+      "type": "text",
+      "width": 260,
+      "x": -164,
+      "y": 636
+    },
+    {
+      "height": 60,
+      "id": "878b528fb2792787",
+      "styleAttributes": {
+      },
+      "text": "send start session requ4est",
+      "type": "text",
+      "width": 260,
+      "x": -498,
+      "y": 700
+    },
+    {
+      "height": 60,
+      "id": "5940e3f37355757a",
+      "styleAttributes": {
+      },
+      "text": "PR DB ENTRY",
+      "type": "text",
+      "width": 281,
+      "x": -507,
+      "y": 920
+    },
+    {
+      "height": 60,
+      "id": "2180dc94e6dd9a50",
+      "styleAttributes": {
+      },
+      "text": "update redis with pr details",
+      "type": "text",
+      "width": 260,
+      "x": -628,
+      "y": 1180
+    },
+    {
+      "height": 60,
+      "id": "1a21d740170f0779",
+      "styleAttributes": {
+      },
+      "text": "logcoller init",
+      "type": "text",
+      "width": 260,
+      "x": -340,
+      "y": 1180
+    },
+    {
+      "height": 60,
+      "id": "72924067525695c2",
+      "styleAttributes": {
+      },
+      "text": "update appium session Id",
+      "type": "text",
+      "width": 260,
+      "x": -767,
+      "y": 840
+    },
+    {
+      "height": 60,
+      "id": "1ccc9285848090cb",
+      "styleAttributes": {
+      },
+      "text": "fail",
+      "type": "text",
+      "width": 260,
+      "x": -149,
+      "y": 767
+    },
+    {
+      "height": 196,
+      "id": "2bba6f4f34daba79",
+      "styleAttributes": {
+      },
+      "text": "* update appium session id in redis\n* create pr db with in-progress",
+      "type": "text",
+      "width": 325,
+      "x": 311,
+      "y": 522
+    },
+    {
+      "height": 60,
+      "id": "44a60754ac535101",
+      "styleAttributes": {
+      },
+      "text": "on failure return to user",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": 840
+    },
+    {
+      "height": 166,
+      "id": "6809191bdfa09a96",
+      "styleAttributes": {
+      },
+      "text": "* create pr db with fail",
+      "type": "text",
+      "width": 346,
+      "x": 301,
+      "y": 814
+    }
+  ]
 }
