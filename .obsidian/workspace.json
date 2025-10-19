@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python async.md",
+                "file": "BASH comparison and test Commands.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "python async"
+              "title": "BASH comparison and test Commands"
             }
           }
         ]
@@ -88,8 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 456.5
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -196,6 +195,9 @@
   },
   "active": "768b53453e9c7deb",
   "lastOpenFiles": [
+    "array pointers in c.md",
+    "Clippings/A Guide to the Zsh Completion with Examples.md",
+    "python async.md",
     "python virtual environment.md",
     "Clippings/How to Create Self-Signed Certificates using OpenSSL.md",
     "Python practice.md",
@@ -203,19 +205,16 @@
     "Terminal Escape sequences.md",
     "Techiques for dotfile Mangement.md",
     "Scratchpad.canvas",
-    "python async.md",
     "Interview prep.md",
     "finite state machines.md",
     "Commands for a better terminal life.md",
-    "array pointers in c.md",
-    "Base comparison and test Commands.md",
+    "BASH comparison and test Commands.md",
     "Encrypt a folder.md",
     "Encryption.md",
     "git bare reposotires.md",
     "zsh.md",
     "Anime websites links.md",
     "2025-08-16.md",
-    "Clippings/A Guide to the Zsh Completion with Examples.md",
     "2025-08-29.md",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Excalidraw/Drawing 2025-03-11 14.32.33.excalidraw.md",
