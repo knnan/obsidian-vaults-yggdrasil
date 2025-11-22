@@ -30,8 +30,45 @@
               "icon": "lucide-file",
               "title": "Network-traffic-shaping"
             }
+          },
+          {
+            "id": "a24678327e65fcc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Terminal Escape sequences.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Terminal Escape sequences"
+            }
+          },
+          {
+            "id": "1480d56cd4b2887b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -193,7 +230,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "768b53453e9c7deb",
+  "active": "1480d56cd4b2887b",
   "lastOpenFiles": [
     "pointers in c.md",
     "Network-traffic-shaping.md",
