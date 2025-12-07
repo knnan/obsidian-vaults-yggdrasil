@@ -285,28 +285,6 @@
     },
     {
       "height": 60,
-      "id": "251ec6e9075e3f2f",
-      "styleAttributes": {
-      },
-      "text": "appium health check (TODO)",
-      "type": "text",
-      "width": 260,
-      "x": -497,
-      "y": 560
-    },
-    {
-      "height": 60,
-      "id": "e0bdf5b8abf6ac96",
-      "styleAttributes": {
-      },
-      "text": "REDIS",
-      "type": "text",
-      "width": 260,
-      "x": -497,
-      "y": 440
-    },
-    {
-      "height": 60,
       "id": "2465c62ea60778b4",
       "styleAttributes": {
       },
@@ -326,6 +304,28 @@
       "width": 388,
       "x": 200,
       "y": 137
+    },
+    {
+      "height": 60,
+      "id": "251ec6e9075e3f2f",
+      "styleAttributes": {
+      },
+      "text": "appium health check (TODO)",
+      "type": "text",
+      "width": 260,
+      "x": -497,
+      "y": 560
+    },
+    {
+      "height": 60,
+      "id": "e0bdf5b8abf6ac96",
+      "styleAttributes": {
+      },
+      "text": "REDIS",
+      "type": "text",
+      "width": 260,
+      "x": -497,
+      "y": 440
     },
     {
       "height": 60,
@@ -394,17 +394,6 @@
       "y": 840
     },
     {
-      "height": 60,
-      "id": "1ccc9285848090cb",
-      "styleAttributes": {
-      },
-      "text": "fail",
-      "type": "text",
-      "width": 260,
-      "x": -149,
-      "y": 767
-    },
-    {
       "height": 196,
       "id": "2bba6f4f34daba79",
       "styleAttributes": {
@@ -416,17 +405,6 @@
       "y": 522
     },
     {
-      "height": 60,
-      "id": "44a60754ac535101",
-      "styleAttributes": {
-      },
-      "text": "on failure return to user",
-      "type": "text",
-      "width": 260,
-      "x": -160,
-      "y": 840
-    },
-    {
       "height": 166,
       "id": "6809191bdfa09a96",
       "styleAttributes": {
@@ -436,6 +414,28 @@
       "width": 346,
       "x": 301,
       "y": 814
+    },
+    {
+      "height": 60,
+      "id": "1ccc9285848090cb",
+      "styleAttributes": {
+      },
+      "text": "fail",
+      "type": "text",
+      "width": 260,
+      "x": -149,
+      "y": 767
+    },
+    {
+      "height": 60,
+      "id": "44a60754ac535101",
+      "styleAttributes": {
+      },
+      "text": "on failure return to user",
+      "type": "text",
+      "width": 260,
+      "x": -160,
+      "y": 840
     }
   ]
 }

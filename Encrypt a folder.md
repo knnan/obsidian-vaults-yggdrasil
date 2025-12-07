@@ -20,4 +20,4 @@ bcrypt safe-archive.tar.bz2.bf3 # Or, whatever you called it
 tar xfj safe-archive.tar.bz2 
 # And, your directory is back!
 
-[[Encryption]]
+[[Age Encryption]]

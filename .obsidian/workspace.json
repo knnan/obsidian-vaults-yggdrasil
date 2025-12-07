@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Terminal Escape sequences.md",
+                "file": "Interview prep.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,23 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Terminal Escape sequences"
-            }
-          },
-          {
-            "id": "1480d56cd4b2887b",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "Interview prep"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,14 +218,23 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1480d56cd4b2887b",
+  "active": "a24678327e65fcc9",
   "lastOpenFiles": [
+    "Golang resources.md",
+    "git bare reposotires.md",
+    "BASH comparison and test Commands.md",
+    "Age Encryption.md",
+    "Encrypt a folder.md",
+    "Cool websites.md",
+    "array pointers in c.md",
+    "pcloudy/APPIUM proxy flow.canvas",
+    "Terminal Escape sequences.md",
+    "cheetsheets/common cmd usage.md",
+    "cheetsheets",
     "pointers in c.md",
     "Network-traffic-shaping.md",
     "lexicographic order.md",
     "Interview prep.md",
-    "Golang resources.md",
-    "Encryption.md",
     "finite state machines.md",
     "Commands for a better terminal life.md",
     "Anime websites links.md",
@@ -245,24 +242,15 @@
     "pcloudy/auth flow.canvas",
     "pcloudy/Cors and api restriction.md",
     "pcloudy/pcloudy rbox -pbox architecture.canvas",
-    "pcloudy/APPIUM proxy flow.canvas",
-    "Cool websites.md",
     "Techiques for dotfile Mangement.md",
-    "Terminal Escape sequences.md",
     "Scratchpad.canvas",
     "Python practice.md",
     "python virtual environment.md",
-    "BASH comparison and test Commands.md",
-    "array pointers in c.md",
     "Clippings/A Guide to the Zsh Completion with Examples.md",
     "python async.md",
     "Clippings/How to Create Self-Signed Certificates using OpenSSL.md",
-    "Encrypt a folder.md",
-    "git bare reposotires.md",
     "zsh.md",
     "2025-08-16.md",
-    "2025-08-29.md",
-    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Clippings",
     "pcloudy/pr.canvas",
     "Untitled 2.canvas",
