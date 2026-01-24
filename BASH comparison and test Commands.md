@@ -95,4 +95,3 @@ With `[[ ... ]]`:
 
 ---
 
-👉 Do you want me to make you a **single-page Markdown cheat sheet** you can save and open anytime in your terminal/editor?
