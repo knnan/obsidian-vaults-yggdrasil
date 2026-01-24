@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Network-traffic-shaping"
             }
-          },
-          {
-            "id": "a24678327e65fcc9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Commands for a better terminal life.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Commands for a better terminal life"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +193,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a24678327e65fcc9",
+  "active": "768b53453e9c7deb",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Commands for a better terminal life.md",
     "BASH comparison and test Commands.md",
     "Interview prep.md",
     "Golang resources.md",
@@ -236,7 +213,6 @@
     "Network-traffic-shaping.md",
     "lexicographic order.md",
     "finite state machines.md",
-    "Commands for a better terminal life.md",
     "Anime websites links.md",
     "pcloudy/pcloudy-release-strategy.canvas",
     "pcloudy/auth flow.canvas",
