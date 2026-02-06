@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Network-traffic-shaping.md",
+                "file": "python async.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Network-traffic-shaping"
+              "title": "python async"
             }
           }
         ]
@@ -195,23 +195,25 @@
   },
   "active": "768b53453e9c7deb",
   "lastOpenFiles": [
+    "Markdown tutorial + obsidian features.md",
+    "pointers in c.md",
+    "lexicographic order.md",
+    "javscript resouress.md",
+    "Interview prep.md",
+    "Cool websites.md",
+    "Network-traffic-shaping.md",
     "Untitled.base",
     "Commands for a better terminal life.md",
     "BASH comparison and test Commands.md",
-    "Interview prep.md",
     "Golang resources.md",
     "git bare reposotires.md",
     "Age Encryption.md",
     "Encrypt a folder.md",
-    "Cool websites.md",
     "array pointers in c.md",
     "pcloudy/APPIUM proxy flow.canvas",
     "Terminal Escape sequences.md",
     "cheetsheets/common cmd usage.md",
     "cheetsheets",
-    "pointers in c.md",
-    "Network-traffic-shaping.md",
-    "lexicographic order.md",
     "finite state machines.md",
     "Anime websites links.md",
     "pcloudy/pcloudy-release-strategy.canvas",
@@ -226,7 +228,6 @@
     "python async.md",
     "Clippings/How to Create Self-Signed Certificates using OpenSSL.md",
     "zsh.md",
-    "2025-08-16.md",
     "Clippings",
     "pcloudy/pr.canvas",
     "Untitled 2.canvas",
