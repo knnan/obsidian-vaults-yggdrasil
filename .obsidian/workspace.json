@@ -11,27 +11,28 @@
             "id": "768b53453e9c7deb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "python async.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "python async"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-07-15 17.51.56.excalidraw"
+            }
+          },
+          {
+            "id": "8510c3eeee27b0d7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -88,7 +89,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 456.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -193,8 +195,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "768b53453e9c7deb",
+  "active": "0471817745793078",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "python async.md",
     "Markdown tutorial + obsidian features.md",
     "pointers in c.md",
     "lexicographic order.md",
@@ -225,9 +230,6 @@
     "Python practice.md",
     "python virtual environment.md",
     "Clippings/A Guide to the Zsh Completion with Examples.md",
-    "python async.md",
-    "Clippings/How to Create Self-Signed Certificates using OpenSSL.md",
-    "zsh.md",
     "Clippings",
     "pcloudy/pr.canvas",
     "Untitled 2.canvas",
