@@ -18,21 +18,8 @@
               "icon": "excalidraw-icon",
               "title": "Drawing 2024-07-15 17.51.56.excalidraw"
             }
-          },
-          {
-            "id": "8510c3eeee27b0d7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,10 +182,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0471817745793078",
+  "active": "c96eb408f2625883",
   "lastOpenFiles": [
-    "Untitled.canvas",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
     "python async.md",
     "Markdown tutorial + obsidian features.md",
     "pointers in c.md",
