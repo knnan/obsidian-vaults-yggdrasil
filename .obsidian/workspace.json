@@ -11,15 +11,33 @@
             "id": "768b53453e9c7deb",
             "type": "leaf",
             "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled 2.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 2"
+            }
+          },
+          {
+            "id": "4059ccd1a13a8ed6",
+            "type": "leaf",
+            "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md"
+                "file": "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2024-07-15 17.51.56.excalidraw"
+              "title": "Drawing 2026-02-07 19.42.26.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +200,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c96eb408f2625883",
+  "active": "dd1fb250144eadca",
   "lastOpenFiles": [
+    "Untitled 2.canvas",
+    "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -217,10 +237,8 @@
     "Scratchpad.canvas",
     "Python practice.md",
     "python virtual environment.md",
-    "Clippings/A Guide to the Zsh Completion with Examples.md",
     "Clippings",
     "pcloudy/pr.canvas",
-    "Untitled 2.canvas",
     "pcloudy",
     "Meta/Attachments/network-shaping-internal-architecture.jpg",
     "Meta/Attachments/network-internal.png",
