@@ -28,12 +28,24 @@
             "id": "4059ccd1a13a8ed6",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md"
+                "file": "Golang resources.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-07 19.42.26.excalidraw"
+              "icon": "lucide-file",
+              "title": "Golang resources"
             }
           }
         ],
@@ -200,10 +212,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "dd1fb250144eadca",
+  "active": "4059ccd1a13a8ed6",
   "lastOpenFiles": [
-    "Untitled 2.canvas",
     "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md",
+    "Untitled 2.canvas",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Untitled 1.canvas",
     "Untitled.canvas",

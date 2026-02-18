@@ -17,7 +17,7 @@
     "floatWidth": 200,
     "floatHeight": 100,
     "parentChildGapForVertical": 160,
-    "parentChildGapForHorizontal": 200,
+    "parentChildGapForHorizontal": 220,
     "siblingGapForVertical": 50,
     "siblingGapForHorizontal": 40,
     "siblingTolerance": 50
