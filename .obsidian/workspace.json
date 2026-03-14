@@ -47,9 +47,33 @@
               "icon": "lucide-file",
               "title": "Golang resources"
             }
+          },
+          {
+            "id": "3d20e83b1bcd9601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Revanced youtube install doc.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Revanced youtube install doc"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -212,8 +236,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4059ccd1a13a8ed6",
+  "active": "3d20e83b1bcd9601",
   "lastOpenFiles": [
+    "Golang resources.md",
+    "Revanced youtube install doc.md",
     "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md",
     "Untitled 2.canvas",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
@@ -230,7 +256,6 @@
     "Untitled.base",
     "Commands for a better terminal life.md",
     "BASH comparison and test Commands.md",
-    "Golang resources.md",
     "git bare reposotires.md",
     "Age Encryption.md",
     "Encrypt a folder.md",
