@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Revanced youtube install doc.md",
+                "file": "Anime websites links.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,11 +69,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Revanced youtube install doc"
+              "title": "Anime websites links"
+            }
+          },
+          {
+            "id": "520ed92edc37def7",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 456.5
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -236,9 +247,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3d20e83b1bcd9601",
+  "active": "520ed92edc37def7",
   "lastOpenFiles": [
+    "zsh.md",
+    "Terminal Escape sequences.md",
+    "Untitled.base",
     "Golang resources.md",
+    "git bare reposotires.md",
+    "Encrypt a folder.md",
+    "Cool websites.md",
     "Revanced youtube install doc.md",
     "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md",
     "Untitled 2.canvas",
@@ -251,17 +268,12 @@
     "lexicographic order.md",
     "javscript resouress.md",
     "Interview prep.md",
-    "Cool websites.md",
     "Network-traffic-shaping.md",
-    "Untitled.base",
     "Commands for a better terminal life.md",
     "BASH comparison and test Commands.md",
-    "git bare reposotires.md",
     "Age Encryption.md",
-    "Encrypt a folder.md",
     "array pointers in c.md",
     "pcloudy/APPIUM proxy flow.canvas",
-    "Terminal Escape sequences.md",
     "cheetsheets/common cmd usage.md",
     "cheetsheets",
     "finite state machines.md",
@@ -273,7 +285,6 @@
     "Techiques for dotfile Mangement.md",
     "Scratchpad.canvas",
     "Python practice.md",
-    "python virtual environment.md",
     "Clippings",
     "pcloudy/pr.canvas",
     "pcloudy",
