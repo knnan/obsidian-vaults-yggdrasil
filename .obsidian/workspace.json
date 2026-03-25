@@ -54,7 +54,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Anime websites links.md",
+                "file": "Mysql debuggin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -69,23 +69,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Anime websites links"
-            }
-          },
-          {
-            "id": "520ed92edc37def7",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "Mysql debuggin"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,8 +235,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "520ed92edc37def7",
+  "active": "3d20e83b1bcd9601",
   "lastOpenFiles": [
+    "Anime websites links.md",
     "zsh.md",
     "Terminal Escape sequences.md",
     "Untitled.base",
@@ -277,7 +266,6 @@
     "cheetsheets/common cmd usage.md",
     "cheetsheets",
     "finite state machines.md",
-    "Anime websites links.md",
     "pcloudy/pcloudy-release-strategy.canvas",
     "pcloudy/auth flow.canvas",
     "pcloudy/Cors and api restriction.md",

@@ -6,19 +6,15 @@ SHOW STATUS LIKE 'Threads%';
 
 SELECT * from information_schema.INNODB_TRX;
 
+SELEC
 
 SELECT * FROM sys.innodb_lock_waits w
 	
 
+SELECT waiting_trx_id, waiting_pid, waiting_query, blocking_trx_id, blocking_pid, blocking_query FROM sys.innodb_lock_waits;
 
-
-SELECT r.trx_id waiting_trx_id,
-	r.trx_mysql_thread_id waiting_thread,
-	b.trx_id blocking_trx_id,
-	b.trx_mysql_thread_id blocking_thread
-FROM performance_schema.data_lock_waits w
-	JOIN information_schema.innodb_trx b ON b.trx_id = w.blocking_engine_transaction_id
-	JOIN information_schema.innodb_trx r ON r.trx_id = w.requesting_engine_transaction_id;
+#### **Get Transaction wait info**
+```sql
 
 SELECT 
     r.trx_id AS waiting_trx_id, 
@@ -30,6 +26,9 @@ SELECT
 FROM performance_schema.data_lock_waits w
 JOIN information_schema.innodb_trx b ON b.trx_id = w.blocking_engine_transaction_id
 JOIN information_schema.innodb_trx r ON r.trx_id = w.requesting_engine_transaction_id;
+
+```
+
 
 SELECT 
     object_schema AS `db`, 
