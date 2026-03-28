@@ -52,24 +52,12 @@
             "id": "3d20e83b1bcd9601",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Mysql debuggin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Mysql debuggin"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2024-07-15 17.51.56.excalidraw"
             }
           }
         ],
@@ -130,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 456.5,
+    "collapsed": true
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -235,11 +224,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3d20e83b1bcd9601",
+  "active": "61c20476add7ab61",
   "lastOpenFiles": [
+    "python async.md",
+    "Scratchpad.canvas",
+    "Techiques for dotfile Mangement.md",
+    "Terminal Escape sequences.md",
+    "Network-traffic-shaping.md",
+    "Clippings/Lock Monitoring - PostgreSQL wiki.md",
+    "Mysql debuggin.md",
     "Anime websites links.md",
     "zsh.md",
-    "Terminal Escape sequences.md",
     "Untitled.base",
     "Golang resources.md",
     "git bare reposotires.md",
@@ -251,13 +246,11 @@
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
-    "python async.md",
     "Markdown tutorial + obsidian features.md",
     "pointers in c.md",
     "lexicographic order.md",
     "javscript resouress.md",
     "Interview prep.md",
-    "Network-traffic-shaping.md",
     "Commands for a better terminal life.md",
     "BASH comparison and test Commands.md",
     "Age Encryption.md",
@@ -265,14 +258,9 @@
     "pcloudy/APPIUM proxy flow.canvas",
     "cheetsheets/common cmd usage.md",
     "cheetsheets",
-    "finite state machines.md",
     "pcloudy/pcloudy-release-strategy.canvas",
     "pcloudy/auth flow.canvas",
-    "pcloudy/Cors and api restriction.md",
     "pcloudy/pcloudy rbox -pbox architecture.canvas",
-    "Techiques for dotfile Mangement.md",
-    "Scratchpad.canvas",
-    "Python practice.md",
     "Clippings",
     "pcloudy/pr.canvas",
     "pcloudy",

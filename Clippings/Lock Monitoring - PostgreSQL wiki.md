@@ -16,7 +16,7 @@ tags:
 
 Looking at [pg\_locks](http://www.postgresql.org/docs/current/static/view-pg-locks.html) shows you what locks are granted and what processes are waiting for locks to be acquired. A good query to start looking for lock problems:
 
-```
+```sql
 select relation::regclass, * from pg_locks where not granted;
 ```
 
@@ -28,7 +28,7 @@ select relation::regclass, * from pg_locks where not granted;
 
 The following query may be helpful to see what processes are blocking SQL statements (these only find row-level locks, not object-level locks).
 
-```
+```sql
 SELECT blocked_locks.pid     AS blocked_pid,
          blocked_activity.usename  AS blocked_user,
          blocking_locks.pid     AS blocking_pid,
@@ -58,11 +58,11 @@ SELECT blocked_locks.pid     AS blocked_pid,
 
 Setting application\_name variable in the begging of each transaction allows you to which logical process blocks another one. It can be information which source code line starts transaction or any other information that helps you to match application\_name to your code.
 
-```
+```sql
 SET application_name='%your_logical_name%';
 ```
 
-```
+```sql
 SELECT blocked_locks.pid     AS blocked_pid,
          blocked_activity.usename  AS blocked_user,
          blocking_locks.pid     AS blocking_pid,
@@ -94,7 +94,7 @@ Note: While this query will mostly work fine, it still has some correctness issu
 
 ### Here's an alternate view of that same data that includes an idea how old the state is
 
-```
+```sql
 SELECT a.datname,
          l.relation::regclass,
          l.transactionid,

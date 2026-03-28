@@ -4,7 +4,6 @@ j# Mastering Python’s Asyncio: A Practical Guide | by Moraneus | Medium
 [Moraneus](https://medium.com/@moraneus)
 
 When you dive into Python’s world, one gem that truly shines for handling modern web and network tasks is `asyncio`. This toolkit is Python's answer to writing clean, efficient, and scalable code for concurrent I/O operations. It might sound a bit intimidating at first, with its event loops, coroutines, and futures. But once you get the hang of it, you'll wonder how you ever lived without it. So, let's break it down, step by step, with examples and a peek at how things look on the other side of the async fence.
-
 Understanding Asyncio
 ---------------------
 
