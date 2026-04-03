@@ -30,7 +30,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Golang resources.md",
+                "file": "Interview prep.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -45,23 +45,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Golang resources"
-            }
-          },
-          {
-            "id": "3d20e83b1bcd9601",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2024-07-15 17.51.56.excalidraw"
+              "title": "Interview prep"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5,
-    "collapsed": true
+    "width": 456.5
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -224,9 +211,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3d20e83b1bcd9601",
+  "active": "4059ccd1a13a8ed6",
   "lastOpenFiles": [
+    "finite state machines.md",
+    "Untitled.canvas",
+    "Golang resources.md",
+    "Untitled.base",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "python async.md",
     "Scratchpad.canvas",
     "Techiques for dotfile Mangement.md",
@@ -236,16 +229,11 @@
     "Mysql debuggin.md",
     "Anime websites links.md",
     "zsh.md",
-    "Untitled.base",
-    "Golang resources.md",
     "git bare reposotires.md",
     "Encrypt a folder.md",
     "Cool websites.md",
     "Revanced youtube install doc.md",
     "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
     "Markdown tutorial + obsidian features.md",
     "pointers in c.md",
     "lexicographic order.md",
