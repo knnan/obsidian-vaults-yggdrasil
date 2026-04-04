@@ -54,9 +54,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked list.md",
+                "file": "DSA/Leetcode(neetcode-probless).md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -69,11 +69,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Linked list"
+              "title": "Leetcode(neetcode-probless)"
+            }
+          },
+          {
+            "id": "a3608a08bb18eb0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Contains duplicate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Contains duplicate"
+            }
+          },
+          {
+            "id": "0b5b191db521029f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Contains duplicate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Contains duplicate"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +178,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -180,7 +229,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -212,7 +263,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -234,39 +285,40 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "b7cd7e81327e3ab0",
+  "active": "a3608a08bb18eb0b",
   "lastOpenFiles": [
-    "Interview prep.md",
+    "DSA/Leetcode(neetcode-probless).md",
+    "DSA/Contains duplicate.md",
     "Linked list.md",
+    "DSA",
+    "Scratchpad.canvas",
+    "zsh.md",
+    "Terminal Escape sequences.md",
+    "lexicographic order.md",
+    "javscript resouress.md",
+    "Interview prep.md",
+    "Golang resources.md",
+    "Cool websites.md",
+    "Age Encryption.md",
     "finite state machines.md",
     "Untitled.canvas",
-    "Golang resources.md",
     "Untitled.base",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "python async.md",
-    "Scratchpad.canvas",
     "Techiques for dotfile Mangement.md",
-    "Terminal Escape sequences.md",
     "Network-traffic-shaping.md",
     "Clippings/Lock Monitoring - PostgreSQL wiki.md",
     "Mysql debuggin.md",
     "Anime websites links.md",
-    "zsh.md",
     "git bare reposotires.md",
     "Encrypt a folder.md",
-    "Cool websites.md",
     "Revanced youtube install doc.md",
     "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md",
     "Markdown tutorial + obsidian features.md",
     "pointers in c.md",
-    "lexicographic order.md",
-    "javscript resouress.md",
     "Commands for a better terminal life.md",
-    "BASH comparison and test Commands.md",
-    "Age Encryption.md",
-    "array pointers in c.md",
     "pcloudy/APPIUM proxy flow.canvas",
     "cheetsheets",
     "pcloudy/pcloudy-release-strategy.canvas",
