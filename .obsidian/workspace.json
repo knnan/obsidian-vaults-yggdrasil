@@ -47,9 +47,33 @@
               "icon": "lucide-file",
               "title": "Interview prep"
             }
+          },
+          {
+            "id": "b7cd7e81327e3ab0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked list.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linked list"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5
+    "width": 200
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -168,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scratchpad.canvas",
+                "file": "Linked list.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Scratchpad"
+              "title": "Outline of Linked list"
             }
           },
           {
@@ -183,8 +207,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -192,8 +216,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +234,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "4059ccd1a13a8ed6",
+  "active": "b7cd7e81327e3ab0",
   "lastOpenFiles": [
+    "Interview prep.md",
+    "Linked list.md",
     "finite state machines.md",
     "Untitled.canvas",
     "Golang resources.md",
@@ -238,13 +263,11 @@
     "pointers in c.md",
     "lexicographic order.md",
     "javscript resouress.md",
-    "Interview prep.md",
     "Commands for a better terminal life.md",
     "BASH comparison and test Commands.md",
     "Age Encryption.md",
     "array pointers in c.md",
     "pcloudy/APPIUM proxy flow.canvas",
-    "cheetsheets/common cmd usage.md",
     "cheetsheets",
     "pcloudy/pcloudy-release-strategy.canvas",
     "pcloudy/auth flow.canvas",
