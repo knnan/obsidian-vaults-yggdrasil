@@ -78,7 +78,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DSA/Contains duplicate.md",
+                "file": "Mysql debuggin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -93,7 +93,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Contains duplicate"
+              "title": "Mysql debuggin"
             }
           },
           {
@@ -287,8 +287,8 @@
   },
   "active": "a3608a08bb18eb0b",
   "lastOpenFiles": [
-    "DSA/Leetcode(neetcode-probless).md",
     "DSA/Contains duplicate.md",
+    "DSA/Leetcode(neetcode-probless).md",
     "Linked list.md",
     "DSA",
     "Scratchpad.canvas",
