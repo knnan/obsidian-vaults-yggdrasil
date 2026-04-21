@@ -76,24 +76,17 @@
             "id": "a3608a08bb18eb0b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Mysql debuggin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 111.59999999999998,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "Mysql debuggin"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -287,6 +280,8 @@
   },
   "active": "a3608a08bb18eb0b",
   "lastOpenFiles": [
+    "Mysql debuggin.md",
+    "Untitled.canvas",
     "DSA/Contains duplicate.md",
     "DSA/Leetcode(neetcode-probless).md",
     "Linked list.md",
@@ -301,7 +296,6 @@
     "Cool websites.md",
     "Age Encryption.md",
     "finite state machines.md",
-    "Untitled.canvas",
     "Untitled.base",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Untitled 2.canvas",
@@ -310,7 +304,6 @@
     "Techiques for dotfile Mangement.md",
     "Network-traffic-shaping.md",
     "Clippings/Lock Monitoring - PostgreSQL wiki.md",
-    "Mysql debuggin.md",
     "Anime websites links.md",
     "git bare reposotires.md",
     "Encrypt a folder.md",
@@ -318,7 +311,6 @@
     "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md",
     "Markdown tutorial + obsidian features.md",
     "pointers in c.md",
-    "Commands for a better terminal life.md",
     "pcloudy/APPIUM proxy flow.canvas",
     "cheetsheets",
     "pcloudy/pcloudy-release-strategy.canvas",
