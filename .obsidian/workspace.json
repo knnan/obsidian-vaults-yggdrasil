@@ -96,10 +96,24 @@
             "id": "fa7e5224ca4aaa80",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Job resorces.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Job resorces"
             }
           }
         ],
@@ -160,7 +174,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 758.5
+    "width": 440.5
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -269,8 +283,8 @@
   },
   "active": "fa7e5224ca4aaa80",
   "lastOpenFiles": [
+    "Job resorces.md",
     "Untitled.base",
-    "Untitled.md",
     "Untitled.canvas",
     "cheetsheets/common cmd usage.md",
     "Golang resources.md",
