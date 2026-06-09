@@ -52,24 +52,17 @@
             "id": "b7cd7e81327e3ab0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "DSA/Leetcode(neetcode-probless).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "pcloudy/pr.canvas",
+                "viewState": {
+                  "x": -30,
+                  "y": -406,
+                  "zoom": -0.005152487765602714
                 }
               },
-              "icon": "lucide-file",
-              "title": "Leetcode(neetcode-probless)"
+              "icon": "lucide-layout-dashboard",
+              "title": "pr"
             }
           },
           {
@@ -90,55 +83,27 @@
             }
           },
           {
-            "id": "365270acfde3bd9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Leetcode(neetcode-probless).md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Leetcode(neetcode-probless)"
-            }
-          },
-          {
             "id": "0b5b191db521029f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Contains duplicate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "fa7e5224ca4aaa80",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Contains duplicate"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -195,7 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 758.5
   },
   "right": {
     "id": "9e5894b16c1b66d8",
@@ -259,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linked list.md",
+                "file": "pcloudy/pr.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Linked list"
+              "title": "Outline of pr"
             }
           },
           {
@@ -279,17 +244,18 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -301,14 +267,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "365270acfde3bd9e",
+  "active": "fa7e5224ca4aaa80",
   "lastOpenFiles": [
-    "DSA/Contains duplicate.md",
-    "Interview prep.md",
+    "Untitled.base",
     "Untitled.md",
     "Untitled.canvas",
-    "Mysql debuggin.md",
+    "cheetsheets/common cmd usage.md",
+    "Golang resources.md",
     "DSA/Leetcode(neetcode-probless).md",
+    "DSA/Contains duplicate.md",
+    "Golang.md",
+    "Interview prep.md",
+    "Mysql debuggin.md",
     "Linked list.md",
     "DSA",
     "Scratchpad.canvas",
@@ -316,11 +286,9 @@
     "Terminal Escape sequences.md",
     "lexicographic order.md",
     "javscript resouress.md",
-    "Golang resources.md",
     "Cool websites.md",
     "Age Encryption.md",
     "finite state machines.md",
-    "Untitled.base",
     "Excalidraw/Drawing 2024-07-15 17.51.56.excalidraw.md",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
@@ -332,8 +300,6 @@
     "git bare reposotires.md",
     "Encrypt a folder.md",
     "Revanced youtube install doc.md",
-    "Excalidraw/Drawing 2026-02-07 19.42.26.excalidraw.md",
-    "Markdown tutorial + obsidian features.md",
     "pcloudy/APPIUM proxy flow.canvas",
     "cheetsheets",
     "pcloudy/pcloudy-release-strategy.canvas",

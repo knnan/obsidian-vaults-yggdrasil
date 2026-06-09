@@ -109,6 +109,8 @@ Here my hopefully helpful ressoures for the Go language.
 
 - [Sameer Ajmani](https://ajmani.net/go/)
 
+- [Golang optimizations and other things](https://segflow.github.io) 
+
   
 
 ## Recommended readings
